@@ -11,7 +11,7 @@ categories:
 Old family cemeteries are often subsumed by modern developments, roads, and construction projects. In this case, a northern-Albemarle cemetery was enveloped by a series of new town houses, just west of the Target/Kohl&#8217;s mall and Route 29.
 
 <div id="attachment_357" class="wp-caption alignnone" style="width: 310px">
-  <a href="http://www.locohistory.org/blog/albemarle/wp-content/uploads/2012/04/birckhead-family-cemetery-lockwood-drive.jpg"><img class="size-medium wp-image-357" title="birckhead-family-cemetery-lockwood-drive" src="http://www.locohistory.org/blog/albemarle/wp-content/uploads/2012/04/birckhead-family-cemetery-lockwood-drive-300x170.jpg" alt="Birckhead Family Cemetery" width="300" height="170" /></a>
+  [](http://www.locohistory.org/blog/albemarle/wp-content/uploads/2012/04/birckhead-family-cemetery-lockwood-drive.jpg)
   
   <p class="wp-caption-text">
     Birckhead Family Cemetery

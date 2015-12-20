@@ -14,7 +14,7 @@ categories:
 Walking down West Main Street takes you back in time, when Starr Hill referred to a neighborhood, not a brewery and when the Railroad was the main means of travel in and out of the city. [<img class="aligncenter size-thumbnail wp-image-257" title="bethel2" src="http://www.locohistory.org/blog/albemarle/wp-content/uploads/2008/12/bethel2.jpg" alt="Church (historic)" />][1]If you keep your eyes peeled while walking you can spot century-old buildings, the structural remainders of those by-gone days. One beautiful example is a former church located on Commerce Street in the middle of the Starr Hill Neighborhood (bordering on the Vinegar Hill Neighborhood). This historic black church is surrounded by other structures associated with the African American community (e.g., the J.F. Bell Funeral Home, founded in 1917 and the Ebenezer Baptist Church, founded in 1892).
 
 <div id="attachment_256" class="wp-caption alignleft" style="width: 226px">
-  <a href="http://www.locohistory.org/blog/albemarle/wp-content/uploads/2008/12/bethel1.jpg"><img class="size-medium wp-image-256" title="bethel1" src="http://www.locohistory.org/blog/albemarle/wp-content/uploads/2008/12/bethel1.jpg" alt="Church (2008)" width="216" height="205" /></a>
+  [](http://www.locohistory.org/blog/albemarle/wp-content/uploads/2008/12/bethel1.jpg)
   
   <p class="wp-caption-text">
     Church (2008)
@@ -26,7 +26,7 @@ Up until recently, the building was home to the Charlottesville Church of Christ
 The building&#8217;s classical facade was inspired by Greek and Roman architectural styles.
 
 <div id="attachment_260" class="wp-caption alignright" style="width: 145px">
-  <a href="http://www.locohistory.org/blog/albemarle/wp-content/uploads/2008/12/bethel_maisoncarree1.jpg"><img class="size-medium wp-image-260" title="bethel_maisoncarree1" src="http://www.locohistory.org/blog/albemarle/wp-content/uploads/2008/12/bethel_maisoncarree1.jpg" alt="Maison Carreé in France (a Roman Temple)" width="135" height="180" /></a>
+  [](http://www.locohistory.org/blog/albemarle/wp-content/uploads/2008/12/bethel_maisoncarree1.jpg)
   
   <p class="wp-caption-text">
     Maison Carreé in France (a Roman Temple)

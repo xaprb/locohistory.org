@@ -13,7 +13,7 @@ categories:
 Two years ago I published a post about Hungrytown, in southern Albemarle County.
 
 <div id="attachment_286" class="wp-caption aligncenter" style="width: 298px">
-  <a href="http://www.locohistory.org/blog/albemarle/wp-content/uploads/2009/09/hungrytownhouse.jpg"><img class="size-medium wp-image-286" title="HungrytownCabin" src="http://www.locohistory.org/blog/albemarle/wp-content/uploads/2009/09/hungrytownhouse.jpg" alt="An historic cabin in Hungrytown" width="288" height="215" /></a>
+  [](http://www.locohistory.org/blog/albemarle/wp-content/uploads/2009/09/hungrytownhouse.jpg)
   
   <p class="wp-caption-text">
     An historic cabin in Hungrytown
