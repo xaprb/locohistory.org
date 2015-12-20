@@ -1,0 +1,65 @@
+url= "http://www.locohistory.org/blog/albemarle"
+name= "LoCoHistory"
+description = "One faces the future with one's past - Pearl S. Buck"
+baseurl = "http://www.locohistory.org/"
+languageCode = "en-us"
+title = "LoCoHistory"
+# disqusShortname = "spf13"
+# googleAnalytics = ""
+paginate = 20
+theme = "hugo-icarus-theme"
+[params]
+    # Tell me who you're
+    author = "John Doe"
+    bio = "Blogger - Programmer - Gopher"
+    location = "Earth"
+    site_description = ""
+    copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
+
+    # Format dates with Go's time formating
+    date_format = "2006-01-02"
+
+# Create custom menu entries by defining a label and a link for
+# them. Since you can also link posts you've the option the
+# place the links before or after them.
+#
+# E.g.: "Home" appears before all linked posts in the menu
+# and "Tags" / "Categories" after them.
+[[params.menu]]
+    before = true
+    label  = "Home"
+    link   = "/"
+
+[[params.menu]]
+    before = false
+    label  = "Tags"
+    link   = "tags/"
+
+[[params.menu]]
+    before = false
+    label  = "Categories"
+    link   = "categories/"
+
+# Enter a link for the follow button on the left
+[params.profile]
+    follow_button = "https://github.com/digitalcraftsman"
+
+
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# create automatically.
+    github          = "digitalcraftsman"
+    instagram       = ""
+    tumblr          = ""
+    linkedin        = ""
+    pinterest       = ""
+    facebook        = ""
+    twitter         = "spf13"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = false
+    tag_cloud = false
