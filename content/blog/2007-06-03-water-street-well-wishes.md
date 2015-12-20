@@ -12,4 +12,4 @@ categories:
 ---
 [](http://www.locohistory.org/blog//?attachment_id=120)
 
-If you look at the map, you will notice that the well was dug at the corner of Main and Second Street. If that doesn&#8217;t sound familiar, try Water Street & 2nd Street (the contemporary street names). This well and many others like it explain the origin for the name "Water Street."
+If you look at the map, you will notice that the well was dug at the corner of Main and Second Street. If that doesn't sound familiar, try Water Street & 2nd Street (the contemporary street names). This well and many others like it explain the origin for the name "Water Street."

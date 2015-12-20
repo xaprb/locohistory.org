@@ -17,7 +17,7 @@ categories:
 
 [<img class="size-medium wp-image-339  alignleft" title="cemtalk" src="http://www.locohistory.org/blog/albemarle/wp-content/uploads/2012/01/cemtalk-300x100.jpg" alt="" width="300" height="100" />][1]
 
-Prior to the talk, explore a [related website][2] designed by Prof. Rainville that includes information about dozens of historic, black cemeteries in Albemarle and Amherst Counties. Below is an excerpt from a walking tour of Charlottesville&#8217;s historic Daughters of Zion Cemetery (located minutes away from the Downtown Mall). Clicking on the image will take you to a virtual tour but please get out to see the real thing!
+Prior to the talk, explore a [related website][2] designed by Prof. Rainville that includes information about dozens of historic, black cemeteries in Albemarle and Amherst Counties. Below is an excerpt from a walking tour of Charlottesville's historic Daughters of Zion Cemetery (located minutes away from the Downtown Mall). Clicking on the image will take you to a virtual tour but please get out to see the real thing!
   
 [<img class="alignnone size-medium wp-image-352" title="doz_wakingtour2" src="http://www.locohistory.org/blog/albemarle/wp-content/uploads/2012/01/doz_wakingtour2.jpg" alt="" width="270" height="270" />][3]
 

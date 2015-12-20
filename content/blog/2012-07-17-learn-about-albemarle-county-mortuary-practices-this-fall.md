@@ -9,7 +9,7 @@ categories:
   - Event
 
 ---
-What does an obelisk symbolize? Who is a "relict"? How do you figure out which stones are "headstones" and which are "footstones" associated with family monuments? To answer these questions, Dr. Lynn Rainville is offering a new course on "Death and Dying in Albemarle County" this Fall (2012) through UVA&#8217;s School of Continuing and Professional Studies. The class will meet Thursday nights from October 25 through December 13 (no class on November 22), from 7pm to 9pm at Darden (classroom TBA).
+What does an obelisk symbolize? Who is a "relict"? How do you figure out which stones are "headstones" and which are "footstones" associated with family monuments? To answer these questions, Dr. Lynn Rainville is offering a new course on "Death and Dying in Albemarle County" this Fall (2012) through UVA's School of Continuing and Professional Studies. The class will meet Thursday nights from October 25 through December 13 (no class on November 22), from 7pm to 9pm at Darden (classroom TBA).
 
 [<img class="alignright size-medium wp-image-391" title="DeathDyingClass" src="http://www.locohistory.org/blog/albemarle/wp-content/uploads/2012/07/DeathDying1-300x225.jpg" alt="" width="300" height="225" />][1]
 

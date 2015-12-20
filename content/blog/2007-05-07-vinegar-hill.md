@@ -10,7 +10,7 @@ categories:
   - Neighborhoods
 
 ---
-Today, the Vinegar Hill Theatre and Vinegar Hill Shopping Center are some of the only landmarks that preserve the name of an historic 20-acre neighborhood, previously located in a triangular area roughly bounded by West Main, Preston, and 4th Street. Up until the 1960s, Vinegar Hill was a thriving African-American community. The eastern edge of the community lies under today&#8217;s Omni Hotel (#3 in the photo). [slideshow of photos ](http://www.locohistory.org/blog/?attachment_id=112)from the neighborhood, visit the Albemarle County Historical Society website.
+Today, the Vinegar Hill Theatre and Vinegar Hill Shopping Center are some of the only landmarks that preserve the name of an historic 20-acre neighborhood, previously located in a triangular area roughly bounded by West Main, Preston, and 4th Street. Up until the 1960s, Vinegar Hill was a thriving African-American community. The eastern edge of the community lies under today's Omni Hotel (#3 in the photo). [slideshow of photos ](http://www.locohistory.org/blog/?attachment_id=112)from the neighborhood, visit the Albemarle County Historical Society website.
 
 This post is in honor of new book on the neighborhood, _[In the Streets of Vinegar Hill](http://search.barnesandnoble.com/booksearch/isbninquiry.asp?r=1&ean=9780595680153),_ written by Mr. James A. Williams, Sr.
 

@@ -23,7 +23,7 @@ Walking down West Main Street takes you back in time, when Starr Hill referred t
 
 Up until recently, the building was home to the Charlottesville Church of Christ. In 1990 the congregation moved to a new building on 5th Street. Earlier in the century a different, African American congregation used the building. According to Professor Emeritus K. Edward Lay, the church was founded in 1919 and called the Bethlehem Apostolic Church or the Bethel Baptist Church. The building was built several years later, in 1922, and featured a stuccoed building with a Corinthian Tetrastyle Portico and stained glass windows. Today the stucco has been replaced with wood and tiles.
 
-The building&#8217;s classical facade was inspired by Greek and Roman architectural styles.
+The building's classical facade was inspired by Greek and Roman architectural styles.
 
 <div id="attachment_260" class="wp-caption alignright" style="width: 145px">
   [](http://www.locohistory.org/blog/albemarle/wp-content/uploads/2008/12/bethel_maisoncarree1.jpg)

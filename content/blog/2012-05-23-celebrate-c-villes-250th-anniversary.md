@@ -11,10 +11,10 @@ categories:
   - Revolutionary War
 
 ---
-This year marks the 250th anniversary of the founding of Charlottesville (1762). There will be activities all year, but the focus of the celebrations is a one-week tour-de-force of Charlottesville&#8217;s rich and diverse history. The festivities begin on May 26th (see below) and continue through June 3. The following list highlights the theme for each day:
+This year marks the 250th anniversary of the founding of Charlottesville (1762). There will be activities all year, but the focus of the celebrations is a one-week tour-de-force of Charlottesville's rich and diverse history. The festivities begin on May 26th (see below) and continue through June 3. The following list highlights the theme for each day:
 
 <p style="margin-top: 0px; margin-bottom: 0px;">
-  <strong>May 26 - Remembering Those Who Died in the Civil War</strong><br /> <strong>May 27 &#8211; Remembering the 200th Anniversary in 1962</strong><br /> <strong>May 28 &#8211; 250 Years of Sacrifice in Our Nation&#8217;s Wars</strong><br /> <strong>May 29 &#8211; 250 Years of African-American Community Life</strong>
+  <strong>May 26 - Remembering Those Who Died in the Civil War</strong><br /> <strong>May 27 &#8211; Remembering the 200th Anniversary in 1962</strong><br /> <strong>May 28 &#8211; 250 Years of Sacrifice in Our Nation's Wars</strong><br /> <strong>May 29 &#8211; 250 Years of African-American Community Life</strong>
 </p>
 
 <p style="margin-top: 0px; margin-bottom: 0px;">

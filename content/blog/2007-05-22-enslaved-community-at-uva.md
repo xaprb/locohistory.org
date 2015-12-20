@@ -10,7 +10,7 @@ categories:
   - Historic Structures
 
 ---
-After recently [apologizing for slavery](http://www.virginia.edu/uvatoday/newsRelease.php?id=1933), the University of Virginia created a committee charged with researching the enslaved and Free Black community at the university. Although these individuals are not (yet) featured prominently in histories of "Mr Jefferson&#8217;s University," they provided much of the labor that constructed the original buildings, ca. 1819-1828. And, up until Emancipation, many professors and students lived with enslaved individuals on grounds. In addition, throughout the 19th Century, the university was surrounded by several African-American neighborhoods (e.g., Canada, located south of Cabell Hall and the site of the Foster House and Cemetery).
+After recently [apologizing for slavery](http://www.virginia.edu/uvatoday/newsRelease.php?id=1933), the University of Virginia created a committee charged with researching the enslaved and Free Black community at the university. Although these individuals are not (yet) featured prominently in histories of "Mr Jefferson's University," they provided much of the labor that constructed the original buildings, ca. 1819-1828. And, up until Emancipation, many professors and students lived with enslaved individuals on grounds. In addition, throughout the 19th Century, the university was surrounded by several African-American neighborhoods (e.g., Canada, located south of Cabell Hall and the site of the Foster House and Cemetery).
 
 Memorials to the African-American community are scattered throughout grounds. [The Ideological Spaces of the Academical Village: A Reading of the Central Grounds at the University of Virginia](http://www.locohistory.org/blog/?attachment_id=129).
 

@@ -17,6 +17,6 @@ Before desegregation, the only Charlottesville high school open to African Ameri
 
 The first principal of the "Graded School" was Benjamin E. Tonsler (1854-1917). [](http://www.locohistory.org/blog/?attachment_id=151) His inscription reads "Gone But Not Forgotten." This stone can be found within the Tonsler Family Plot in the Daughters of Zion Cemetery, located adjacent to the Oakwood Cemetery. Second, his house still stands on Sixth Street (behind the First Baptist Church on Main Street).
 
-If we check the University of Virginia historic [](http://www.lib.virginia.edu/small/collections/holsinger/) One man&#8217;s biography writ large around us, if we only take the time to notice.
+If we check the University of Virginia historic [](http://www.lib.virginia.edu/small/collections/holsinger/) One man's biography writ large around us, if we only take the time to notice.
 
 To read more about the history of the Jefferson School, [available on their website.](http://www.charlottesville.org/Index.aspx?page=1608)
