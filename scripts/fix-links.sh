@@ -14,3 +14,6 @@ sed -i '' -e 's!http://www.locohistory.org/blog/amherst/wp-content/uploads/!/med
 
 blog $ sed -i '' -e 's!http://www.locohistory.org/blog/albemarle/!/!g' *.md
 blog $ sed -i '' -e 's!http://www.locohistory.org/blog/amherst/!/!g' *.md
+
+blog $ sed -i '' -e 's!http://www.locohistory.org/Albemarle/!/!g' *.md
+blog $ sed -i '' -e 's!http://www.locohistory.org/Amherst/!/!g' *.md

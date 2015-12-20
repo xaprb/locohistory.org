@@ -15,4 +15,4 @@ In 1996, local historian Gayle Schulman came across a series of letters written 
 
 During her research into the Gibbons family she learned that both Isabella and her husband, William Gibbons, had been owned for part of their lives by University of Virginia Professors. In 2003, Ms. Schulman began a systematic review of archives, manuscripts, census data, church membership lists, and birth and death records searching for clues to their lives as individuals and as members of a community. A portion of this research is illustrated in her manuscript titled "Slaves at the University of Virginia." To download a copyrighted version of this 33-page article (pdf file), [click here][1].
 
- [1]: http://www.locohistory.org/Albemarle/Slavery_at_UVA.shtml
+ [1]: /Slavery_at_UVA.shtml
