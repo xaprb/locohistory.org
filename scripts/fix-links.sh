@@ -8,3 +8,9 @@ sed -i '' -e 's/&#8221;/"/g' *.md
 sed -i '' -e 's/&#8217;/'\''/g' *.md
 
 
+sed -i '' -e 's!http://www.locohistory.org/blog/wp-content/uploads/!/media/!g' *.md
+sed -i '' -e 's!http://www.locohistory.org/blog/albemarle/wp-content/uploads/!/media/!g' *.md
+sed -i '' -e 's!http://www.locohistory.org/blog/amherst/wp-content/uploads/!/media/!g' *.md
+
+blog $ sed -i '' -e 's!http://www.locohistory.org/blog/albemarle/!/!g' *.md
+blog $ sed -i '' -e 's!http://www.locohistory.org/blog/amherst/!/!g' *.md

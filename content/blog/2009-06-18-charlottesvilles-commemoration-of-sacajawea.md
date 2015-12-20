@@ -16,7 +16,7 @@ categories:
 
  [1]: /media/2009/06/lewisclark_postcard.jpg
  [2]: http://www.lewisandclarkeast.org
- [3]: http://www.locohistory.org/blog/albemarle/2007/02/16/sacagawea-clark-lewis/
+ [3]: /2007/02/16/sacagawea-clark-lewis/
  [4]: /media/2009/06/sacajaweacoin2.jpg
  [5]: http://www.charlottesville.org/historicresources/
  [6]: http://www.cvilledesign.org

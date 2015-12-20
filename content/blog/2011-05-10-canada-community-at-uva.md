@@ -25,7 +25,7 @@ In 1993 a coffin was located at the site during the construction of a parking lo
 
 >>The [site is listed][11] on the Virginia Foundation for the Humanities [African American Heritage website][12].
 
- [1]: http://www.locohistory.org/blog/albemarle/2007/05/22/enslaved-community-at-uva/
+ [1]: /2007/05/22/enslaved-community-at-uva/
  [2]: /media/2011/05/fostersitemap1.jpg
  [3]: http://www.rivarch.com/
  [4]: /media/2011/05/fostersite52.jpg

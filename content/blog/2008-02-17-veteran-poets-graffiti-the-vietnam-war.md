@@ -10,6 +10,6 @@ categories:
   - Vietnam War
 
 ---
-There has already been a lot of press and events surrounding the current exhibit at the Albemarle Charlottesville Historical Society, but if you haven't yet had a chance to visit, do so soon. [Daily Progress](http://www.locohistory.org/blog/albemarle/2008/02/17/veteran-poets-graffiti-the-vietnam-war/189/). The exhibit is sponsored, in part, by the [Virginia Foundation for the Humanities][1]. <span style="font-weight: bold; font-style: italic"></span>
+There has already been a lot of press and events surrounding the current exhibit at the Albemarle Charlottesville Historical Society, but if you haven't yet had a chance to visit, do so soon. [Daily Progress](/2008/02/17/veteran-poets-graffiti-the-vietnam-war/189/). The exhibit is sponsored, in part, by the [Virginia Foundation for the Humanities][1]. <span style="font-weight: bold; font-style: italic"></span>
 
  [1]: http://www.virginiafoundation.org/
