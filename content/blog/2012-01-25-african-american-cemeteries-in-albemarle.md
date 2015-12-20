@@ -11,26 +11,14 @@ categories:
   - Event
 
 ---
-<p style="text-align: left;">
-  Attend a free lecture on local African-American Cemeteries by Dr. Lynn Rainville at the Jefferson-Madison Regional Library Sunday, February 5th at 2pm in the McIntire Room (third floor, central branch of the library). Professor Rainville will discuss her research into historic, black burial grounds and the associated mortuary beliefs and funerary patterns. Come learn more about these "outdoor museums" of African-American beliefs and family connections.
-</p>
+Attend a free lecture on local African-American Cemeteries by Dr. Lynn Rainville at the Jefferson-Madison Regional Library Sunday, February 5th at 2pm in the McIntire Room (third floor, central branch of the library). Professor Rainville will discuss her research into historic, black burial grounds and the associated mortuary beliefs and funerary patterns. Come learn more about these "outdoor museums" of African-American beliefs and family connections.
 
-[
-
-<img   src="/media/2012/01/cemtalk-300x100.jpg" alt="" width="300" height="100" />
-
-][1]
-
+![/media/2012/01/cemtalk-300x100.jpg](/media/2012/01/cemtalk-300x100.jpg)
 
 
 Prior to the talk, explore a [related website][2] designed by Prof. Rainville that includes information about dozens of historic, black cemeteries in Albemarle and Amherst Counties. Below is an excerpt from a walking tour of Charlottesville's historic Daughters of Zion Cemetery (located minutes away from the Downtown Mall). Clicking on the image will take you to a virtual tour but please get out to see the real thing!
   
-[
-
-<img   src="/media/2012/01/doz_wakingtour2.jpg" alt="" width="270" height="270" />
-
-][3]
-
+![/media/2012/01/doz_wakingtour2.jpg](/media/2012/01/doz_wakingtour2.jpg)
 
 
  [1]: /media/2012/01/cemtalk.jpg

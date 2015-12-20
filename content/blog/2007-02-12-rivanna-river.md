@@ -12,31 +12,31 @@ categories:
 ---
 
 
-<a href='http://www.locohistory.org/blog/2007/02/12/rivanna-river/rivanna_billemoryjpg-2/' rel='attachment wp-att-45' title='rivanna_billemory.jpg'><img src='/media/2007/02/rivanna_billemory.jpg' alt='rivanna_billemory.jpg' /></a>
+<a href='http://www.locohistory.org/blog/2007/02/12/rivanna-river/rivanna_billemoryjpg-2/' rel='attachment wp-att-45' title='rivanna_billemory.jpg'>![/media/2007/02/rivanna_billemory.jpg](/media/2007/02/rivanna_billemory.jpg)
 
 The atmospheric photo of the Rivanna is provided courtesy of [Bill Emory][1]. His blog provides wonderful images of local resources, both cultural and natural. In the past, rivers provided an important route for travel. If you imagine the county without Route 29 and envision 250 as its muddy/rocky predecessor, Three Notched Road, you can appreciate why an unobstructed waterway would be a desirable alternative for moving people and goods through the county. The main river in Albemarle is the Rivanna River. It originates in the Blue Ridge (at altitude) and then flows down, to the east, and eventually joins the James River (that connects to Richmond and then empties into the Atlantic). Prior to the arrival of Europeans, indigneous groups built villages along the river. 
 
-<a href='http://www.locohistory.org/blog/?attachment_id=42' rel='attachment wp-att-42' title='Queen Anne (1665-1714, r. 1702-1714)'><img src='/media/2007/02/queenanne.jpg' alt='Queen Anne (1665-1714, r. 1702-1714)' /></a>
+<a href='http://www.locohistory.org/blog/?attachment_id=42' rel='attachment wp-att-42' title='Queen Anne (1665-1714, r. 1702-1714)'>![/media/2007/02/queenanne.jpg](/media/2007/02/queenanne.jpg)
 
 The river is named after Queen Anne (1665-1714) who reigned as the Queen of England, Ireland, and Scotland between 1702 and 1714. William Keppel (2nd Earl of Albemarle, see earlier post on this blog) was Queen Anne's godchild, hence his middle name "Anne." If you are interested in helping conserve the river, visit the [Rivanna Conservation Society][2] homepage.
 
 Today the river can be enjoyed by canoeing or walking along its banks on the [Rivanna Trail][3]. If you look closely as you canoe or hike, you will see the remains of dams, locks, and bridges that once supported the vital trade in agricultural goods by enabling boat travel along the river's course. These boats, referred to "bateaux," the French word for "boats," were specifically designed to carry heavy weights and navigate shallow waters. 
 
-<a href='http://www.locohistory.org/blog/2007/02/12/rivanna-river/bateaujpg/' rel='attachment wp-att-43' title='bateau.jpg'><img src='/media/2007/02/bateau.jpg' alt='bateau.jpg' /></a>
+<a href='http://www.locohistory.org/blog/2007/02/12/rivanna-river/bateaujpg/' rel='attachment wp-att-43' title='bateau.jpg'>![/media/2007/02/bateau.jpg](/media/2007/02/bateau.jpg)
 
  Prior to the creation of canals (circa 1840), the James River bateaux were the most common means for transporting hogshead of tobacco to market. Scottsville holds a "[Bateaux Festival][4]" each year with reproductions of these boats. In 2007 the "Batteau Night in Scottsville" will be held at 4pm on June 20th. Visit the [
 
-<a href='http://www.locohistory.org/blog/2007/02/12/rivanna-river/rivanna_billemoryjpg-2/' rel='attachment wp-att-45' title='rivanna_billemory.jpg'><img src='/media/2007/02/rivanna_billemory.jpg' alt='rivanna_billemory.jpg' /></a>
+<a href='http://www.locohistory.org/blog/2007/02/12/rivanna-river/rivanna_billemoryjpg-2/' rel='attachment wp-att-45' title='rivanna_billemory.jpg'>![/media/2007/02/rivanna_billemory.jpg](/media/2007/02/rivanna_billemory.jpg)
 
 The atmospheric photo of the Rivanna is provided courtesy of [Bill Emory][1]. His blog provides wonderful images of local resources, both cultural and natural. In the past, rivers provided an important route for travel. If you imagine the county without Route 29 and envision 250 as its muddy/rocky predecessor, Three Notched Road, you can appreciate why an unobstructed waterway would be a desirable alternative for moving people and goods through the county. The main river in Albemarle is the Rivanna River. It originates in the Blue Ridge (at altitude) and then flows down, to the east, and eventually joins the James River (that connects to Richmond and then empties into the Atlantic). Prior to the arrival of Europeans, indigneous groups built villages along the river. 
 
-<a href='http://www.locohistory.org/blog/?attachment_id=42' rel='attachment wp-att-42' title='Queen Anne (1665-1714, r. 1702-1714)'><img src='/media/2007/02/queenanne.jpg' alt='Queen Anne (1665-1714, r. 1702-1714)' /></a>
+<a href='http://www.locohistory.org/blog/?attachment_id=42' rel='attachment wp-att-42' title='Queen Anne (1665-1714, r. 1702-1714)'>![/media/2007/02/queenanne.jpg](/media/2007/02/queenanne.jpg)
 
 The river is named after Queen Anne (1665-1714) who reigned as the Queen of England, Ireland, and Scotland between 1702 and 1714. William Keppel (2nd Earl of Albemarle, see earlier post on this blog) was Queen Anne's godchild, hence his middle name "Anne." If you are interested in helping conserve the river, visit the [Rivanna Conservation Society][2] homepage.
 
 Today the river can be enjoyed by canoeing or walking along its banks on the [Rivanna Trail][3]. If you look closely as you canoe or hike, you will see the remains of dams, locks, and bridges that once supported the vital trade in agricultural goods by enabling boat travel along the river's course. These boats, referred to "bateaux," the French word for "boats," were specifically designed to carry heavy weights and navigate shallow waters. 
 
-<a href='http://www.locohistory.org/blog/2007/02/12/rivanna-river/bateaujpg/' rel='attachment wp-att-43' title='bateau.jpg'><img src='/media/2007/02/bateau.jpg' alt='bateau.jpg' /></a>
+<a href='http://www.locohistory.org/blog/2007/02/12/rivanna-river/bateaujpg/' rel='attachment wp-att-43' title='bateau.jpg'>![/media/2007/02/bateau.jpg](/media/2007/02/bateau.jpg)
 
 Prior to the creation of canals (circa 1840), the James River bateaux were the most common means for transporting hogshead of tobacco to market. Scottsville holds a "[Bateaux Festival][4]" each year with reproductions of these boats. In 2007 the "Batteau Night in Scottsville" will be held at 4pm on June 20th. Visit the][5] Website for more information.
 

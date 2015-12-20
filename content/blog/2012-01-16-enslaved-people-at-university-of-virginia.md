@@ -11,11 +11,9 @@ categories:
   - Thomas Jefferson
 
 ---
-Upcoming event, January 25th, 2012, Noon: “The Enduring Legacy of Henry Martin and Other Enslaved Laborers at U.Va.” (in the Harrison Institute auditorium). [
+Upcoming event, January 25th, 2012, Noon: “The Enduring Legacy of Henry Martin and Other Enslaved Laborers at U.Va.” (in the Harrison Institute auditorium).
 
-<img   src="/media/2012/01/henrymartin1.jpg" alt="" width="187" height="288" />
-
-][1]
+![/media/2012/01/henrymartin1.jpg](/media/2012/01/henrymartin1.jpg)
 
 Later that day, at 5:30 p.m., a second event will be held to honor Mr. Martin as part of U.Va.’s commemoration of Rev. Dr. Martin Luther King Jr. (in the Rotunda Dome Room). Several scholars will discuss the lives and contributions of Mr. Martin and other formerly enslaved people at UVA during the lunchtime lecture.
 
