@@ -15,4 +15,4 @@ How many times have you driven by the county office buildings/Bodo's on Preston 
   
 I'm pretty certain that the owner of the building is the same Henry C. Marchant who owned the mill in Woolen Mills. To the right is an example of their letterhead (from a letter dated 1878). H.C. Marchant's name and title "President" is highlighted in the upper left-hand corner and the advertisement promises "cassimeres (sic), cadet grays, suitings, Kerseys, etc. etc." Does anyone know what a Kersey is ?
 
- [1]: http://www.locohistory.org/blog/wp-content/uploads/2007/03/marchantbldg.jpg
+ [1]: /media/2007/03/marchantbldg.jpg

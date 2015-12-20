@@ -17,5 +17,5 @@ A brief description of the class: This course surveys 300 years of local mortuar
 
 To learn more or register, please visit the [SCPS Fall Course List][2] (with lots of great classes). Scroll to the bottom of the page to find the "Death" class (NCSS 123 / 21193).
 
- [1]: http://www.locohistory.org/blog/albemarle/wp-content/uploads/2012/07/DeathDying1.jpg
+ [1]: /media/2012/07/DeathDying1.jpg
  [2]: http://www.scps.virginia.edu/programs/personal-enrichment-classes-fall2012

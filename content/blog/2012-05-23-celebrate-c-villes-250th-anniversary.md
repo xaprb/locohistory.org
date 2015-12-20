@@ -27,5 +27,5 @@ This year marks the 250th anniversary of the founding of Charlottesville (1762).
   </p>
   
   <p style="margin-top: 0px; margin-bottom: 0px;">
-    [](http://www.locohistory.org/blog/albemarle/wp-content/uploads/2012/05/250_events2012.jpg)
+    [](/media/2012/05/250_events2012.jpg)
   </p>

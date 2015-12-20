@@ -23,5 +23,5 @@ Hugh Carr's son-in-law, Conly Greer, contracted with several area businesses to 
  [1]: http://ivycreekfoundation.org/ICNA.html
  [2]: http://ivycreekfoundation.org/home.html
  [3]: http://ivycreekfoundation.org/FamilyHistory.html
- [4]: http://www.locohistory.org/blog/wp-content/uploads/2007/03/carrcem.jpg
- [5]: http://www.locohistory.org/blog/wp-content/uploads/2007/03/monticellohotelsherd.jpg
+ [4]: /media/2007/03/carrcem.jpg
+ [5]: /media/2007/03/monticellohotelsherd.jpg
