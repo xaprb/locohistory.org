@@ -20,3 +20,5 @@ blog $ sed -i '' -e 's!http://www.locohistory.org/Amherst/!/!g' *.md
 
 blog $ sed -i '' -e 's!class="[^"]*"!!g' *.md
 blog $ sed -i '' -e 's!title="[^"]*"!!g' *.md
+
+blog $ sed -i '' -e 's!.thumbnail.jpg!.jpg!g' *.md
