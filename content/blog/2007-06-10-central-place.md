@@ -1,7 +1,7 @@
 ---
 title: Central Place
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-06-11
 excerpt: 'Which C-ville landmark is referred to as "central place."  The Courthouse ? UVA ? Main Street ? The correct answer is.....'
 url: /2007/06/10/central-place/

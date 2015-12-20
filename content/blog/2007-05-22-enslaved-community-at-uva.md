@@ -1,7 +1,7 @@
 ---
 title: Enslaved Community at UVA
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-05-22
 excerpt: "Mr Jefferson's University was, in part, built by slave labor. What do we know about the lives of these enslaved individuals and the nearby African-American communities that surrounded the University of Virginia ?"
 url: /2007/05/22/enslaved-community-at-uva/

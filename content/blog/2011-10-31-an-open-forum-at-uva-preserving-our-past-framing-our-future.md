@@ -1,7 +1,7 @@
 ---
 title: 'An Open Forum at UVA: Preserving Our Past, Framing Our Future'
 author: Lynn Rainville
-layout: post
+type: post
 date: 2011-10-31
 url: /2011/10/31/an-open-forum-at-uva-preserving-our-past-framing-our-future/
 categories:

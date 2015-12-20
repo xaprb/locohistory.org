@@ -1,7 +1,7 @@
 ---
 title: Cities of the Dead
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-12-20
 excerpt: "What can we learn from Charlottesville's Cities of the Dead ?"
 url: /2007/12/20/cities-of-the-dead/

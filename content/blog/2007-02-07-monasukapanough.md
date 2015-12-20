@@ -1,7 +1,7 @@
 ---
 title: Monasukapanough
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-02-08
 url: /2007/02/07/monasukapanough/
 categories:

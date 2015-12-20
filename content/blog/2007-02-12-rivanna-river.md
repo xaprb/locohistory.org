@@ -1,7 +1,7 @@
 ---
 title: Rivanna River
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-02-12
 url: /2007/02/12/rivanna-river/
 categories:

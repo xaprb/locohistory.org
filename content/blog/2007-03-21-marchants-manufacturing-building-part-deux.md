@@ -1,7 +1,7 @@
 ---
 title: Marchant’s Manufacturing Building, Part Deux
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-03-21
 url: /2007/03/21/marchants-manufacturing-building-part-deux/
 categories:

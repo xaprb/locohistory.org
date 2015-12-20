@@ -1,7 +1,7 @@
 ---
 title: African-American Cemeteries in Albemarle
 author: Lynn Rainville
-layout: post
+type: post
 date: 2012-01-25
 excerpt: Learn more about local cemeteries....
 url: /2012/01/25/african-american-cemeteries-in-albemarle/

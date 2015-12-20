@@ -1,7 +1,7 @@
 ---
 title: (Original) Amherst Courthouse
 author: admin
-layout: post
+type: post
 date: 2008-07-15
 excerpt: What do the eight notches in the old Courthouse railing symbolize....
 url: /?p=15

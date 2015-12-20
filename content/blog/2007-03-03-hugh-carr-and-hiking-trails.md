@@ -1,7 +1,7 @@
 ---
 title: Hugh Carr and Hiking Trails
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-03-03
 excerpt: |
   Today the <a href="http://ivycreekfoundation.org/ICNA.html">Ivy Creek Natural Area </a>contains hiking trails, copious amounts of birds, and a learning center. In 1880 Hugh Carr's 80-acre farm, River View, contained crops, a milk cow, 4 swine, 10 poultry, and many other agricultural features.

@@ -1,7 +1,7 @@
 ---
 title: Hungrytown (Part I)
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-04-07
 excerpt: 'Where does the name "hungrytown" come from ? '
 url: /2007/04/07/hungrytown-part-i/

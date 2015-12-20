@@ -1,7 +1,7 @@
 ---
 title: City Orchards
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-03-09
 excerpt: How can you use maps to reconstruct C-ville history ?
 url: /2007/03/09/city-orchards/

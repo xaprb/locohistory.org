@@ -1,7 +1,7 @@
 ---
 title: Fire Plaques
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-05-13
 excerpt: What is a fire plaque (or fire mark) and where can you find them downtown ?
 url: /2007/05/13/fire-plaques/

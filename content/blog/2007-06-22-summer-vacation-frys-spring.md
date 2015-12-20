@@ -1,7 +1,7 @@
 ---
 title: 'Summer Vacation: Fry’s Spring'
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-06-22
 url: /2007/06/22/summer-vacation-frys-spring/
 categories:

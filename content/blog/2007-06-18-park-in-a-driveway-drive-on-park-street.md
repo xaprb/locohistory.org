@@ -1,7 +1,7 @@
 ---
 title: Park in a Driveway; Drive on Park Street
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-06-19
 excerpt: "Park in a Driveway; Drive on Park Street...why is it called Park Street when there's no park in sight ?"
 url: /2007/06/18/park-in-a-driveway-drive-on-park-street/

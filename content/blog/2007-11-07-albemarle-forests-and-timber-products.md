@@ -1,7 +1,7 @@
 ---
 title: Albemarle Forests and Timber Products
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-11-07
 excerpt: "Join the Albemarle Charlottesville Historical Society for their Quarterly Meeting this Sunday (Nov 11th). Enjoy an illustrated talk given by a Forester on Albemarle's Timber Industry and listen to the annual report of the historical society...."
 url: /2007/11/07/albemarle-forests-and-timber-products/

@@ -1,7 +1,7 @@
 ---
 title: Mountain View Baptist Church in Batesville
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-10-15
 excerpt: "Locating century-old churches while driving through Albemarle's scenic country roads...."
 url: /2007/10/15/mountain-view-baptist-church-in-batesville/

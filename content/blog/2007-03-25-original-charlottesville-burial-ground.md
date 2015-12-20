@@ -1,7 +1,7 @@
 ---
 title: Original Charlottesville Burial Ground
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-03-25
 excerpt: Where was the first burial ground in Charlottesville ?
 url: /2007/03/25/original-charlottesville-burial-ground/

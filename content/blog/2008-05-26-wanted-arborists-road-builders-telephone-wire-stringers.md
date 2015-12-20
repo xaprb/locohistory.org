@@ -1,7 +1,7 @@
 ---
 title: 'Wanted: Arborists, Road Builders, Telephone Wire Stringers'
 author: Lynn Rainville
-layout: post
+type: post
 date: 2008-05-27
 excerpt: 'Wanted: Arborists, Road Builders, Telephone Wire Stringers. What year would this fictional job advertisement date to ? What does it refer to ?'
 url: /2008/05/26/wanted-arborists-road-builders-telephone-wire-stringers/

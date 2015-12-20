@@ -1,7 +1,7 @@
 ---
 title: Memorial Day Cemetery Tour
 author: Lynn Rainville
-layout: post
+type: post
 date: 2011-05-10
 url: /2011/05/10/memorial-day-cemetery-tour/
 categories:

@@ -1,7 +1,7 @@
 ---
 title: An Apple A Day…
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-03-11
 excerpt: Following on the fruit theme from the last post, what is 1,307 acres, 179+ years old, and 14 miles south of C-ville ?
 url: /2007/03/11/an-apple-a-day/

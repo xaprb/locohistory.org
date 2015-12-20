@@ -1,7 +1,7 @@
 ---
 title: Black Leadership in Charlottesville
 author: Lynn Rainville
-layout: post
+type: post
 date: 2008-11-05
 excerpt: "In conjunction with Obama's historic victory, read about the historic successes of Charlottesville's African-American community..."
 url: /2008/11/05/black-leadership-in-charlottessville/

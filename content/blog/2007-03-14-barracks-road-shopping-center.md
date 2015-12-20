@@ -1,7 +1,7 @@
 ---
 title: Barracks Road Shopping Center
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-03-14
 url: /2007/03/14/barracks-road-shopping-center/
 categories:

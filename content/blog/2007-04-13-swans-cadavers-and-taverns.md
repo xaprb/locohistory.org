@@ -1,7 +1,7 @@
 ---
 title: Swans, Cadavers, and Taverns
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-04-13
 url: /2007/04/13/swans-cadavers-and-taverns/
 categories:

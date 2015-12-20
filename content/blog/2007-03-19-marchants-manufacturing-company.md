@@ -1,7 +1,7 @@
 ---
 title: Marchant’s Manufacturing Company
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-03-19
 url: /2007/03/19/marchants-manufacturing-company/
 categories:

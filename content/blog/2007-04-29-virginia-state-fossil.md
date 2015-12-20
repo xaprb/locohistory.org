@@ -1,7 +1,7 @@
 ---
 title: Virginia State Fossil
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-04-29
 excerpt: Why a 4 million-year-old scallop is the state fossil of Virginia.
 url: /2007/04/29/virginia-state-fossil/

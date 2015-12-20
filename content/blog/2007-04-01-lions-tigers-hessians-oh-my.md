@@ -1,7 +1,7 @@
 ---
 title: Lions, Tigers, Hessians, Oh My!
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-04-02
 excerpt: Lions, Tigers, Hessians, Oh My! Just what is a Hessian and why were they living at The Barracks ?
 url: /2007/04/01/lions-tigers-hessians-oh-my/

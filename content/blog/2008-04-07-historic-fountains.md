@@ -1,7 +1,7 @@
 ---
 title: Historic Fountains
 author: Lynn Rainville
-layout: post
+type: post
 date: 2008-04-07
 excerpt: Thirsty ?
 url: /2008/04/07/historic-fountains/

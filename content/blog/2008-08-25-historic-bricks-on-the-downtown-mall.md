@@ -1,7 +1,7 @@
 ---
 title: Historic Bricks on the Downtown Mall
 author: Lynn Rainville
-layout: post
+type: post
 date: 2008-08-25
 excerpt: Join us for the First Annual Downtown Mall Brick Challenge...
 url: /2008/08/25/historic-bricks-on-the-downtown-mall/

@@ -1,7 +1,7 @@
 ---
 title: Taylor’s Gap
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-04-18
 excerpt: When is a gap an interesting historic feature ?
 url: /2007/04/18/taylors-gap/

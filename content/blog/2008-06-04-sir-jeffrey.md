@@ -1,7 +1,7 @@
 ---
 title: Sir Jeffrey
 author: admin
-layout: post
+type: post
 date: 2008-06-04
 url: /?p=6
 categories:

@@ -1,7 +1,7 @@
 ---
 title: 'Masonic Society: 14th Century, 1910, and 2008'
 author: Lynn Rainville
-layout: post
+type: post
 date: 2008-08-04
 excerpt: Freemasons, the all-seeing eye, and the full moon in Charlottesville.
 url: /2008/08/04/masonic-society-14th-century-1910-and-2008/

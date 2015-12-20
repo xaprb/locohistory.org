@@ -1,7 +1,7 @@
 ---
 title: WWII Exhibit in Scottsville
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-04-30
 excerpt: What is v-mail and why should you visit the new WWII exhibit at the Scottsville Museum ?
 url: /2007/04/29/wwii-exhibit-in-scottsville/

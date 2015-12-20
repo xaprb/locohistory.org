@@ -1,7 +1,7 @@
 ---
 title: Rosenwald Schools
 author: Lynn Rainville
-layout: post
+type: post
 date: 2008-09-29
 excerpt: 'What does Sears & Roebuck, Julius Rosenwald, and African-American education have in common ?'
 url: /2008/09/28/rosenwald-schools/

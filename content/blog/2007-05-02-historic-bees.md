@@ -1,7 +1,7 @@
 ---
 title: Historic Bees
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-05-02
 url: /2007/05/02/historic-bees/
 categories:

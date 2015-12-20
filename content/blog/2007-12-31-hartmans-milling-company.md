@@ -1,7 +1,7 @@
 ---
 title: Hartman’s Milling Company
 author: Lynn Rainville
-layout: post
+type: post
 date: 2008-01-01
 url: /2007/12/31/hartmans-milling-company/
 categories:

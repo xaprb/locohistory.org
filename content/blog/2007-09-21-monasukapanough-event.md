@@ -1,7 +1,7 @@
 ---
 title: Monasukapanough, Event
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-09-21
 excerpt: "Learn more about a Monacan Indian Settlement in Albemarle County this Sunday (September 23rd, 2007) at 2pm during the Albemarle Charlottesville Historical Society's Quarterly Meeting. Read more and get directions in the blog post....."
 url: /2007/09/21/monasukapanough-event/

@@ -1,7 +1,7 @@
 ---
 title: Rebuilt Synagogue
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-04-21
 excerpt: An historic synagogue in downtown Charlottesville.
 url: /2007/04/21/rebuilt-synagogue/

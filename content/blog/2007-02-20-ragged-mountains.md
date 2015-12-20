@@ -1,7 +1,7 @@
 ---
 title: Ragged Mountains
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-02-21
 excerpt: What is 980 acres, 4 miles long, and contains sassafras and witch hazel ?
 url: /2007/02/20/ragged-mountains/

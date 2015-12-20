@@ -1,7 +1,7 @@
 ---
 title: 'Imperial Tea, Mr Gleason, & Old Albemarle Hotel'
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-05-21
 excerpt: "It's 1897 in downtown Charlottesville. Where is the fashionable place to dine and spend the night ?"
 url: /2007/05/21/imperial-tea-mr-gleason-old-albemarle-hotel/

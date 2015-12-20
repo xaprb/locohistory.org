@@ -1,7 +1,7 @@
 ---
 title: Slavery at the University of Virginia
 author: Lynn Rainville
-layout: post
+type: post
 date: 2010-08-05
 excerpt: Download an article by a local historian about Slavery at the University of Virginia
 url: /2010/08/05/slavery-at-the-university-of-virginia/

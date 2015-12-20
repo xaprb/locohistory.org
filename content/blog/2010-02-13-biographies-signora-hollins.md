@@ -1,7 +1,7 @@
 ---
 title: 'Biographies: Signora Hollins'
 author: admin
-layout: post
+type: post
 date: 2010-02-13
 url: /?p=38
 categories:

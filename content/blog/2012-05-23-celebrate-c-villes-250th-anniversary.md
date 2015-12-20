@@ -1,7 +1,7 @@
 ---
 title: Celebrate C-ville’s 250th Anniversary
 author: Lynn Rainville
-layout: post
+type: post
 date: 2012-05-23
 excerpt: Celebrate 250 is just around the corner!
 url: /2012/05/23/celebrate-c-villes-250th-anniversary/

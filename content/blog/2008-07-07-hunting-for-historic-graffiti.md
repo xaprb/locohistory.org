@@ -1,7 +1,7 @@
 ---
 title: Hunting for Historic Graffiti
 author: Lynn Rainville
-layout: post
+type: post
 date: 2008-07-07
 excerpt: Hunting for Historic Graffiti on the Downtown Mall....
 url: /2008/07/07/hunting-for-historic-graffiti/

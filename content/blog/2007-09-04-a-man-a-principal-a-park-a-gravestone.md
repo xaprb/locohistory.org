@@ -1,7 +1,7 @@
 ---
 title: A Man, A Principal, A Park, A Gravestone
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-09-05
 excerpt: The Jefferson Colored Graded Elementary School opened in 1894. The first Principal was Benjamin E. Tonsler. How many memorials to his life and works can you name ?
 url: /2007/09/04/a-man-a-principal-a-park-a-gravestone/

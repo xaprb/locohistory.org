@@ -1,7 +1,7 @@
 ---
 title: Sandidges Mill
 author: admin
-layout: post
+type: post
 date: 2008-07-10
 excerpt: Explore an old mill and see a "mill race"...
 url: /?p=8

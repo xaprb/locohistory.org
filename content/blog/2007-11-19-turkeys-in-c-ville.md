@@ -1,7 +1,7 @@
 ---
 title: Turkeys in C-Ville
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-11-19
 excerpt: Where can you find the genus Meleagris, order Galliformes on an Albemarle County Map ?
 url: /2007/11/19/turkeys-in-c-ville/

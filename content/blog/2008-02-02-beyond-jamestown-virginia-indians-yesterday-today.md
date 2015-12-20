@@ -1,7 +1,7 @@
 ---
 title: 'Beyond Jamestown: Virginia Indians Yesterday & Today'
 author: Lynn Rainville
-layout: post
+type: post
 date: 2008-02-02
 url: /2008/02/02/beyond-jamestown-virginia-indians-yesterday-today/
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Enslaved People at University of Virginia
 author: Lynn Rainville
-layout: post
+type: post
 date: 2012-01-17
 excerpt: Join a panel of scholars on January 25th to learn more about enslaved laborers at UVA....
 url: /2012/01/16/enslaved-people-at-university-of-virginia/

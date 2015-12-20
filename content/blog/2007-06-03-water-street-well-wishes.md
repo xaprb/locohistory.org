@@ -1,7 +1,7 @@
 ---
 title: 'Water Street & Well Wishes'
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-06-04
 excerpt: Construction in historic Charlottesville can sometimes net unexpected results...
 url: /2007/06/03/water-street-well-wishes/

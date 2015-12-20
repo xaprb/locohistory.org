@@ -1,7 +1,7 @@
 ---
 title: Jefferisite, Worms, and a Quarry
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-12-15
 url: /2007/12/15/jefferisite-worms-and-a-quarry/
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Charlottesville’s Commemoration of Sacajawea
 author: Lynn Rainville
-layout: post
+type: post
 date: 2009-06-18
 excerpt: Commemorate Sacajawea this Friday (June 19th) at 1pm...
 url: /2009/06/18/charlottesvilles-commemoration-of-sacajawea/

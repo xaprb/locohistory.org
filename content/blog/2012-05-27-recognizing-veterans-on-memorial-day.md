@@ -1,7 +1,7 @@
 ---
 title: Recognizing Veterans on Memorial Day
 author: Lynn Rainville
-layout: post
+type: post
 date: 2012-05-27
 excerpt: Celebrate Memorial Day by attending local events in Charlottesville on May 28, 2012....
 url: /2012/05/27/recognizing-veterans-on-memorial-day/

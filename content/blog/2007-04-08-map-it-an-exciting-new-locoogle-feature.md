@@ -1,7 +1,7 @@
 ---
 title: Map it! an exciting new locoogle feature!
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-04-08
 excerpt: Map it! an exciting new locoogle feature! Where locohistory meets the Google Maps Mash-ups.
 url: /2007/04/08/map-it-an-exciting-new-locoogle-feature/

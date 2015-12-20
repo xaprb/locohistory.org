@@ -1,7 +1,7 @@
 ---
 title: Monticello Hotel
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-04-14
 excerpt: "This historic hotel wins the competition for most renditions of Jefferson's profile: on their plates and doormats, just to name a few. It began as a 21-foot deep pit, cost $800,000, and was originally slated to be called the James Monroe. Which Charlottesville hotel is it ?"
 url: /2007/04/14/monticello-hotel/

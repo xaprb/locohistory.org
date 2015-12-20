@@ -1,7 +1,7 @@
 ---
 title: Black History “Month”
 author: admin
-layout: post
+type: post
 date: 2010-02-02
 excerpt: 'Join us as we celebrate Black History Month in February 2010 - focusing on the lives and contributions of African Americans in Amherst County, Virginia.'
 url: /?p=30

@@ -1,7 +1,7 @@
 ---
 title: 'Veteran Poets: Graffiti & the Vietnam War'
 author: Lynn Rainville
-layout: post
+type: post
 date: 2008-02-17
 excerpt: "What did soldiers inscribe on the interior of a troop ship that carried them to Vietnam ? Find out at the Albemarle Charlottesville Historical Society's current exhibit curated by Art Beltrone: Marking Time: Voyage to Vietnam....."
 url: /2008/02/17/veteran-poets-graffiti-the-vietnam-war/

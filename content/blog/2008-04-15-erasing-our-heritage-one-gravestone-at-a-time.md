@@ -1,7 +1,7 @@
 ---
 title: Erasing Our Heritage One Gravestone at a Time
 author: Lynn Rainville
-layout: post
+type: post
 date: 2008-04-16
 excerpt: Cemetery Vandalism at Maplewood
 url: /2008/04/15/erasing-our-heritage-one-gravestone-at-a-time/

@@ -1,7 +1,7 @@
 ---
 title: Historic Jail
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-05-30
 excerpt: What has 3-feet thick walls, reinforced steel doors, an iron cage, and is surrounded by an 18-foot high wall ?
 url: /2007/05/29/historic-jail/

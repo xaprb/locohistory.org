@@ -1,7 +1,7 @@
 ---
 title: Masonic Lodge
 author: admin
-layout: post
+type: post
 date: 2008-08-04
 excerpt: Masonic Building in Downtown Amherst.
 url: /?p=18

@@ -1,7 +1,7 @@
 ---
 title: Ragged Mountain Hollers
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-04-24
 excerpt: What is a holler and where are they located ?
 url: /2007/04/24/ragged-mountain-hollers/

@@ -1,7 +1,7 @@
 ---
 title: Historic Church Inspired by a Roman Temple
 author: Lynn Rainville
-layout: post
+type: post
 date: 2009-01-01
 excerpt: What does a Roman Temple and an historic African American Church have in common ?
 url: /2008/12/31/historic-church-inspired-by-a-roman-temple/

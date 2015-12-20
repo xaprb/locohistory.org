@@ -1,7 +1,7 @@
 ---
 title: Structural Stars
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-02-19
 excerpt: Why are some brick buildings decorated with metal stars ?
 url: /2007/02/18/structural-stars/

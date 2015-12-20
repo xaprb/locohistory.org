@@ -1,7 +1,7 @@
 ---
 title: Vinegar Hill
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-05-07
 excerpt: This post is in honor of new book on the neighborhood, In the Streets of Vinegar Hill, written by Mr. James A. Williams, Sr.
 url: /2007/05/07/vinegar-hill/

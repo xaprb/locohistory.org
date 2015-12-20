@@ -1,7 +1,7 @@
 ---
 title: A Pride of Lions! An ambush of Tigers! Oh my!
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-08-28
 excerpt: "A Pride of Lions! An ambush of Tigers! Oh my! Hey - what's that lodge of beavers doing over there ? the herd of buffalo ? the brace of bucks ? And why are they all memorialized on 19th Century maps of the region ?"
 url: /2007/08/27/a-pride-of-lions-an-ambush-of-tigers-oh-my/

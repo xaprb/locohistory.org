@@ -1,7 +1,7 @@
 ---
 title: Birckhead Family Cemetery
 author: Lynn Rainville
-layout: post
+type: post
 date: 2012-04-06
 url: /2012/04/05/birckhead-family-cemetery/
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Learn about Albemarle County Mortuary Practices this Fall
 author: Lynn Rainville
-layout: post
+type: post
 date: 2012-07-17
 url: /2012/07/17/learn-about-albemarle-county-mortuary-practices-this-fall/
 categories:

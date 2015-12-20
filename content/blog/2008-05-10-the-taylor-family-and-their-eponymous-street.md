@@ -1,7 +1,7 @@
 ---
 title: The Taylor Family and their Eponymous Street
 author: Lynn Rainville
-layout: post
+type: post
 date: 2008-05-11
 excerpt: Who was the only African-American delegate sent from Charlottesville to the Virginia Constitutional Convention during reconstruction ?
 url: /2008/05/10/the-taylor-family-and-their-eponymous-street/

@@ -1,7 +1,7 @@
 ---
 title: Extraordinary Ordinaries
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-03-16
 excerpt: 'Extraordinary Ordinaries: What is a colonial ordinary ? (a) a daily meal, consumed before dinner, (b) a second-rate menu item, (c) a tavern providing a meal at a set price.'
 url: /2007/03/15/extraordinary-ordinaries/

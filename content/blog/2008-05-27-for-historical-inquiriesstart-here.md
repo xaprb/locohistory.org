@@ -1,7 +1,7 @@
 ---
 title: For Historical Inquiries…Start Here
 author: admin
-layout: post
+type: post
 date: 2008-05-27
 url: /?p=4
 categories:

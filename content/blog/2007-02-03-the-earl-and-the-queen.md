@@ -1,7 +1,7 @@
 ---
 title: The Earl and the Queen
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-02-03
 url: /2007/02/03/the-earl-and-the-queen/
 categories:

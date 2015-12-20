@@ -1,7 +1,7 @@
 ---
 title: 'Breezy Oaks: A Keswick Farmhouse'
 author: Lynn Rainville
-layout: post
+type: post
 date: 2008-03-13
 excerpt: What do rope ladders, an historic home, and an unidentified cemetery have in common ?
 url: /2008/03/13/breezy-oaks-a-keswick-farmhouse/

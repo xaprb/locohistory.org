@@ -1,7 +1,7 @@
 ---
 title: 'Sacagawea, Clark, & Lewis'
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-02-16
 url: /2007/02/16/sacagawea-clark-lewis/
 categories:

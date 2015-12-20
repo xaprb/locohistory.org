@@ -1,7 +1,7 @@
 ---
 title: Canada Community at UVA
 author: Lynn Rainville
-layout: post
+type: post
 date: 2011-05-10
 url: /2011/05/10/canada-community-at-uva/
 categories:

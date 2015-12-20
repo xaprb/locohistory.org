@@ -1,7 +1,7 @@
 ---
 title: Milestones and Milemarkers
 author: admin
-layout: post
+type: post
 date: 2008-09-04
 excerpt: Where does the term "milestone" come from ?
 url: /?p=20

@@ -1,7 +1,7 @@
 ---
 title: Hungrytown (Part II)
 author: Lynn Rainville
-layout: post
+type: post
 date: 2009-09-13
 excerpt: An historic cemetery lies all but forgotten in Hungrytown...
 url: /2009/09/13/hungrytown-part-ii/

@@ -1,7 +1,7 @@
 ---
 title: Remarkable “firsts” in Charlottesville
 author: Lynn Rainville
-layout: post
+type: post
 date: 2008-07-28
 excerpt: Who was the first female major of Charlottesville ? the first African-American sheriff ? View an illustrated history of Charlottesville "firsts" as depicted in the paintings of Mrs Frances Brand....
 url: /2008/07/27/remarkable-firsts-in-charlottesville/

@@ -1,7 +1,7 @@
 ---
 title: Amherst County Local History Blog
 author: admin
-layout: post
+type: post
 date: 2008-05-18
 url: /?p=3
 categories:

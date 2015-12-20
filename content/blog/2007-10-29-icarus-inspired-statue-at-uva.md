@@ -1,7 +1,7 @@
 ---
 title: Icarus-inspired Statue at UVA
 author: Lynn Rainville
-layout: post
+type: post
 date: 2007-10-29
 excerpt: "Where is the statue dedicated to James Rogers McConnell (1887-1917)? Hint 1: it's on the grounds of UVA. Hint 2: the statue is of a naked man, standing on globe, attempting to fly. Hint 3: the design is based on the Greek myth of Icarus."
 url: /2007/10/29/icarus-inspired-statue-at-uva/
