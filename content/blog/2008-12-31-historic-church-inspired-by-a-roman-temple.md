@@ -11,12 +11,12 @@ categories:
   - Historic Structures
 
 ---
-Walking down West Main Street takes you back in time, when Starr Hill referred to a neighborhood, not a brewery and when the Railroad was the main means of travel in and out of the city. [<img class="aligncenter size-thumbnail wp-image-257" title="bethel2" src="/media/2008/12/bethel2.jpg" alt="Church (historic)" />][1]If you keep your eyes peeled while walking you can spot century-old buildings, the structural remainders of those by-gone days. One beautiful example is a former church located on Commerce Street in the middle of the Starr Hill Neighborhood (bordering on the Vinegar Hill Neighborhood). This historic black church is surrounded by other structures associated with the African American community (e.g., the J.F. Bell Funeral Home, founded in 1917 and the Ebenezer Baptist Church, founded in 1892).
+Walking down West Main Street takes you back in time, when Starr Hill referred to a neighborhood, not a brewery and when the Railroad was the main means of travel in and out of the city. [<img   src="/media/2008/12/bethel2.jpg" alt="Church (historic)" />][1]If you keep your eyes peeled while walking you can spot century-old buildings, the structural remainders of those by-gone days. One beautiful example is a former church located on Commerce Street in the middle of the Starr Hill Neighborhood (bordering on the Vinegar Hill Neighborhood). This historic black church is surrounded by other structures associated with the African American community (e.g., the J.F. Bell Funeral Home, founded in 1917 and the Ebenezer Baptist Church, founded in 1892).
 
-<div id="attachment_256" class="wp-caption alignleft" style="width: 226px">
+<div id="attachment_256"  style="width: 226px">
   [](/media/2008/12/bethel1.jpg)
   
-  <p class="wp-caption-text">
+  <p >
     Church (2008)
   </p>
 </div>
@@ -25,10 +25,10 @@ Up until recently, the building was home to the Charlottesville Church of Christ
 
 The building's classical facade was inspired by Greek and Roman architectural styles.
 
-<div id="attachment_260" class="wp-caption alignright" style="width: 145px">
+<div id="attachment_260"  style="width: 145px">
   [](/media/2008/12/bethel_maisoncarree1.jpg)
   
-  <p class="wp-caption-text">
+  <p >
     Maison Carreé in France (a Roman Temple)
   </p>
 </div>
