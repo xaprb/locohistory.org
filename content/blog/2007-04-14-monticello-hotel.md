@@ -13,6 +13,6 @@ categories:
 
 [](http://www.locohistory.org/blog/?attachment_id=96)
 
-One of its claims to fame was the &#8220;world&#8217;s largest searchlight,&#8221; mounted on top of the 9-story building and allegedly visible for 100s of miles.Â [](http://www.locohistory.org/blog/?attachment_id=97)
+One of its claims to fame was the "world&#8217;s largest searchlight," mounted on top of the 9-story building and allegedly visible for 100s of miles.Â [](http://www.locohistory.org/blog/?attachment_id=97)
 
 <br style="clear: both" />

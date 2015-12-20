@@ -10,4 +10,4 @@ categories:
   - Historic Structures
 
 ---
-One of the wonderful things about living in central Virginia is the beautiful fall weather, perfect for exploring back country roads. [The Architecture of Jefferson Country](http://www.locohistory.org/blog/?attachment_id=161).&#8221; Note, &#8220;Jefferson Country&#8221; is a moniker for Charlottesville and Albemarle County.
+One of the wonderful things about living in central Virginia is the beautiful fall weather, perfect for exploring back country roads. [The Architecture of Jefferson Country](http://www.locohistory.org/blog/?attachment_id=161)." Note, "Jefferson Country" is a moniker for Charlottesville and Albemarle County.

@@ -10,7 +10,7 @@ categories:
   - Names
 
 ---
-On some downtown structures history is writ large on the sides of old, brick buildings. The images below represent a small sample of the 19th and early 20th century advertising technique of painting buildings. See how many old store names you can locate on and around the mall this summer.     [](http://www.locohistory.org/blog/albemarle/?attachment_id=212)A hint: the photos illustrated here were taken near East Water Street and 4th Street SE. Ironically, the brand-new building in the back of the &#8220;Chas King Grocers&#8221; building is &#8220;the Holsinger,&#8221; named after a famous, historic photographer.
+On some downtown structures history is writ large on the sides of old, brick buildings. The images below represent a small sample of the 19th and early 20th century advertising technique of painting buildings. See how many old store names you can locate on and around the mall this summer.     [](http://www.locohistory.org/blog/albemarle/?attachment_id=212)A hint: the photos illustrated here were taken near East Water Street and 4th Street SE. Ironically, the brand-new building in the back of the "Chas King Grocers" building is "the Holsinger," named after a famous, historic photographer.
   
 [](http://www.locohistory.org/blog/albemarle/2008/07/07/hunting-for-historic-graffiti/214/)
   

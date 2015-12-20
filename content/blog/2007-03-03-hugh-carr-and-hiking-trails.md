@@ -18,7 +18,7 @@ Today the [Today the][1] contains hiking trails, copious amounts of birds, and a
   
 During your visit, take a few moments to visit the [Carr Family Cemetery](http://www.virginia.edu/woodson/projects/aacaac/db/cemetery/details/CRR/). It contains an interesting array of granite and carved fieldstone gravemarkers.![][5]
 
-Hugh Carr&#8217;s son-in-law, Conly Greer, contracted with several area businesses to haul away their trash. Many of these items, referred to by archaeologists as &#8220;artifacts&#8221; (it&#8217;s true, archaeologists study trash), are visible above-ground in trash middens. Below is a sherd with the profile of a famous Charlottesvillian which was the logo for the Old Monticello Hotel (located across from the courthouse).
+Hugh Carr&#8217;s son-in-law, Conly Greer, contracted with several area businesses to haul away their trash. Many of these items, referred to by archaeologists as "artifacts" (it&#8217;s true, archaeologists study trash), are visible above-ground in trash middens. Below is a sherd with the profile of a famous Charlottesvillian which was the logo for the Old Monticello Hotel (located across from the courthouse).
 
  [1]: http://ivycreekfoundation.org/ICNA.html
  [2]: http://ivycreekfoundation.org/home.html

@@ -15,4 +15,4 @@ I am back from the field (an Assyrian city in southeastern Turkey which I assist
 
 [](http://www.locohistory.org/blog/?attachment_id=143)
   
-I cannot end this post without a nod to a 21st Century animal sighting website: [www.beaverlikemammals.com](http://www.beaverlikemammals.com). Well worth a visit if you have ever asked the question &#8220;Hey, is that a beaver?&#8221; Oddly enough, after visiting the site last week, I have seen 3 BLMs.
+I cannot end this post without a nod to a 21st Century animal sighting website: [www.beaverlikemammals.com](http://www.beaverlikemammals.com). Well worth a visit if you have ever asked the question "Hey, is that a beaver?" Oddly enough, after visiting the site last week, I have seen 3 BLMs.

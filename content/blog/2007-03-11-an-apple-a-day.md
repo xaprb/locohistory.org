@@ -11,7 +11,7 @@ categories:
   - Neighborhoods
 
 ---
-Following on the fruit theme from the last post, what is 1,307 acres, 179+ years old, and 14 miles south of C-ville ? Answer: The Covesville Historic District. Created in 2005, the district includes 90 &#8220;primary resources&#8221; (buildings or features that have historic significance) that date between 1750 and 1954. Many of these buildings illustrate Greek Revival and Federal styles.[](http://www.locohistory.org/blog/?attachment_id=66)
+Following on the fruit theme from the last post, what is 1,307 acres, 179+ years old, and 14 miles south of C-ville ? Answer: The Covesville Historic District. Created in 2005, the district includes 90 "primary resources" (buildings or features that have historic significance) that date between 1750 and 1954. Many of these buildings illustrate Greek Revival and Federal styles.[](http://www.locohistory.org/blog/?attachment_id=66)
 
 The Peyton Map illustrates the significant structures as of 1875. Note the Cove Chapel (today the Cove Presbyterian Church). [](http://www.locohistory.org/blog/?attachment_id=67)
 

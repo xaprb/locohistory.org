@@ -11,7 +11,7 @@ categories:
 ---
 The first [efforts are on-going to try to reconstruct a Monacan site](http://www.locohistory.org/blog/2007/02/07/monasukapanough/).
 
-For a very informative and detailed website that discusses archaeological, historical, topographical, and ethnographic evidence for Monacan Heritage in the Piedmont, please visit the Virginia Center for Digital History&#8217;s project site called &#8220;[Disappearing Indians ? A Case for the Continued Inhabitance of the Virginia Piedmont by the Monacan Indians.&#8221;](http://www.vcdh.virginia.edu/lewisandclark/students/projects/monacans/index.html)
+For a very informative and detailed website that discusses archaeological, historical, topographical, and ethnographic evidence for Monacan Heritage in the Piedmont, please visit the Virginia Center for Digital History&#8217;s project site called "[Disappearing Indians ? A Case for the Continued Inhabitance of the Virginia Piedmont by the Monacan Indians."](http://www.vcdh.virginia.edu/lewisandclark/students/projects/monacans/index.html)
 
  [1]: http://www.monacannation.com/
  [2]: http://www.albemarlehistory.org/

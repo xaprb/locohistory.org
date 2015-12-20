@@ -12,7 +12,7 @@ categories:
 
 ---
 <p style="text-align: left;">
-  Attend a free lecture on local African-American Cemeteries by Dr. Lynn Rainville at the Jefferson-Madison Regional Library Sunday, February 5th at 2pm in the McIntire Room (third floor, central branch of the library). Professor Rainville will discuss her research into historic, black burial grounds and the associated mortuary beliefs and funerary patterns. Come learn more about these &#8220;outdoor museums&#8221; of African-American beliefs and family connections.
+  Attend a free lecture on local African-American Cemeteries by Dr. Lynn Rainville at the Jefferson-Madison Regional Library Sunday, February 5th at 2pm in the McIntire Room (third floor, central branch of the library). Professor Rainville will discuss her research into historic, black burial grounds and the associated mortuary beliefs and funerary patterns. Come learn more about these "outdoor museums" of African-American beliefs and family connections.
 </p>
 
 [<img class="size-medium wp-image-339  alignleft" title="cemtalk" src="http://www.locohistory.org/blog/albemarle/wp-content/uploads/2012/01/cemtalk-300x100.jpg" alt="" width="300" height="100" />][1]
