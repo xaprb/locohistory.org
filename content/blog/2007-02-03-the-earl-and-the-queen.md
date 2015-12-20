@@ -10,6 +10,10 @@ categories:
 
 Place names often provide historical clues. For example, the County is named after Willem van Keppel, the second Earl of Albemarle. The Earl (1702-1754) was a British diplomat, Colonel, and later governor of the colony. The county was formed in 1744, but the current boundaries date to 1777.
 
+
+
+
+
 <img src='/media/2007/02/earlalb.jpg' alt='Earl of Albemarle' />
 
 Originally, the county seat was in Scottsville, but it was moved to Charlottesville in 1761. Charlottesville is named after Queen Charlotte (1744-1818), the wife of George III of England.
