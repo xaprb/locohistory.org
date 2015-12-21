@@ -5,6 +5,7 @@ date: 2012-01-25 21:15:26+00:00
 excerpt: Learn more about local cemeteries....
 layout: post
 slug: african-american-cemeteries-in-albemarle
+url: /blog/albemarle/2012/01/25/african-american-cemeteries-in-albemarle/
 title: African-American Cemeteries in Albemarle
 wordpress_id: 331
 categories:

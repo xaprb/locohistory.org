@@ -5,6 +5,7 @@ date: 2012-05-23 13:05:33+00:00
 excerpt: Celebrate 250 is just around the corner!
 layout: post
 slug: celebrate-c-villes-250th-anniversary
+url: /blog/albemarle/2012/05/23/celebrate-c-villes-250th-anniversary/
 title: Celebrate C-ville's 250th Anniversary
 wordpress_id: 369
 categories:

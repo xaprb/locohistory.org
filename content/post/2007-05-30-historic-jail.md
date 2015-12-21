@@ -6,6 +6,7 @@ excerpt: What has 3-feet thick walls, reinforced steel doors, an iron cage, and 
   surrounded by an 18-foot high wall ?
 layout: post
 slug: historic-jail
+url: /blog/albemarle/2007/05/30/historic-jail/
 title: Historic Jail
 wordpress_id: 131
 categories:

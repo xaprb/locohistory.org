@@ -5,6 +5,7 @@ date: 2008-04-07 18:43:19+00:00
 excerpt: Thirsty ?
 layout: post
 slug: historic-fountains
+url: /blog/albemarle/2008/04/07/historic-fountains/
 title: Historic Fountains
 wordpress_id: 198
 categories:

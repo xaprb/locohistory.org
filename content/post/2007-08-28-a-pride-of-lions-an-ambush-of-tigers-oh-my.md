@@ -7,6 +7,7 @@ excerpt: A Pride of Lions! An ambush of Tigers! Oh my! Hey - what's that lodge o
   they all memorialized on 19th Century maps of the region ?
 layout: post
 slug: a-pride-of-lions-an-ambush-of-tigers-oh-my
+url: /blog/albemarle/2007/08/28/a-pride-of-lions-an-ambush-of-tigers-oh-my/
 title: A Pride of Lions! An ambush of Tigers! Oh my!
 wordpress_id: 37
 categories:

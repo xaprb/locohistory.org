@@ -6,6 +6,7 @@ excerpt: Lions, Tigers, Hessians, Oh My! Just what is a Hessian and why were the
   living at The Barracks ?
 layout: post
 slug: lions-tigers-hessians-oh-my
+url: /blog/albemarle/2007/04/02/lions-tigers-hessians-oh-my/
 title: Lions, Tigers, Hessians, Oh My!
 wordpress_id: 71
 categories:

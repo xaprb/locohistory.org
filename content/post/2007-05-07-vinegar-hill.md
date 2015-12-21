@@ -6,6 +6,7 @@ excerpt: This post is in honor of new book on the neighborhood, In the Streets o
   Vinegar Hill, written by Mr. James A. Williams, Sr.
 layout: post
 slug: vinegar-hill
+url: /blog/albemarle/2007/05/07/vinegar-hill/
 title: Vinegar Hill
 wordpress_id: 22
 categories:

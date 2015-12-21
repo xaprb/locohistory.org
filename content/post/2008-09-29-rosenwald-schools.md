@@ -6,6 +6,7 @@ excerpt: What does Sears & Roebuck, Julius Rosenwald, and African-American educa
   have in common ?
 layout: post
 slug: rosenwald-schools
+url: /blog/albemarle/2008/09/29/rosenwald-schools/
 title: Rosenwald Schools
 wordpress_id: 29
 categories:

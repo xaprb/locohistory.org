@@ -4,6 +4,7 @@ comments: true
 date: 2007-06-22 16:58:42+00:00
 layout: post
 slug: summer-vacation-frys-spring
+url: /blog/albemarle/2007/06/22/summer-vacation-frys-spring/
 title: 'Summer Vacation: Fry''s Spring'
 wordpress_id: 140
 categories:

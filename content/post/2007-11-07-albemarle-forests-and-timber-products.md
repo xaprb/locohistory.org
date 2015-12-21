@@ -7,6 +7,7 @@ excerpt: Join the Albemarle Charlottesville Historical Society for their Quarter
   Albemarle's Timber Industry and listen to the annual report of the historical society....
 layout: post
 slug: albemarle-forests-and-timber-products
+url: /blog/albemarle/2007/11/07/albemarle-forests-and-timber-products/
 title: Albemarle Forests and Timber Products
 wordpress_id: 167
 categories:

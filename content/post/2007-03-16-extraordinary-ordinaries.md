@@ -7,6 +7,7 @@ excerpt: 'Extraordinary Ordinaries: What is a colonial ordinary ? (a) a daily me
   at a set price.'
 layout: post
 slug: extraordinary-ordinaries
+url: /blog/albemarle/2007/03/16/extraordinary-ordinaries/
 title: Extraordinary Ordinaries
 wordpress_id: 74
 categories:

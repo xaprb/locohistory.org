@@ -6,6 +6,7 @@ excerpt: Park in a Driveway; Drive on Park Street...why is it called Park Street
   there's no park in sight ?
 layout: post
 slug: park-in-a-driveway-drive-on-park-street
+url: /blog/albemarle/2007/06/19/park-in-a-driveway-drive-on-park-street/
 title: Park in a Driveway; Drive on Park Street
 wordpress_id: 138
 categories:

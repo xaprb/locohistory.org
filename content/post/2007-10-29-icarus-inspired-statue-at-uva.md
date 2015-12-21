@@ -7,6 +7,7 @@ excerpt: 'Where is the statue dedicated to James Rogers McConnell (1887-1917)? H
   globe, attempting to fly. Hint 3: the design is based on the Greek myth of Icarus.'
 layout: post
 slug: icarus-inspired-statue-at-uva
+url: /blog/albemarle/2007/10/29/icarus-inspired-statue-at-uva/
 title: Icarus-inspired Statue at UVA
 wordpress_id: 163
 categories:

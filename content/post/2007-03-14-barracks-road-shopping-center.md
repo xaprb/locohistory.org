@@ -4,6 +4,7 @@ comments: true
 date: 2007-03-14 20:29:28+00:00
 layout: post
 slug: barracks-road-shopping-center
+url: /blog/albemarle/2007/03/14/barracks-road-shopping-center/
 title: Barracks Road Shopping Center
 wordpress_id: 18
 categories:

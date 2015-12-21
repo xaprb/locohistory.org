@@ -7,6 +7,7 @@ excerpt: Mr Jefferson's University was, in part, built by slave labor. What do w
   communities that surrounded the University of Virginia ?
 layout: post
 slug: enslaved-community-at-uva
+url: /blog/albemarle/2007/05/22/enslaved-community-at-uva/
 title: Enslaved Community at UVA
 wordpress_id: 128
 categories:

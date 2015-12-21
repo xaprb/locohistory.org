@@ -4,6 +4,7 @@ comments: true
 date: 2007-12-15 12:12:28+00:00
 layout: post
 slug: jefferisite-worms-and-a-quarry
+url: /blog/albemarle/2007/12/15/jefferisite-worms-and-a-quarry/
 title: Jefferisite, Worms, and a Quarry
 wordpress_id: 173
 categories:

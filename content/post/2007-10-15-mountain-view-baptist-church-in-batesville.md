@@ -6,6 +6,7 @@ excerpt: Locating century-old churches while driving through Albemarle's scenic 
   roads....
 layout: post
 slug: mountain-view-baptist-church-in-batesville
+url: /blog/albemarle/2007/10/15/mountain-view-baptist-church-in-batesville/
 title: Mountain View Baptist Church in Batesville
 wordpress_id: 160
 categories:

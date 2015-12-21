@@ -6,6 +6,7 @@ excerpt: Join a panel of scholars on January 25th to learn more about enslaved l
   at UVA....
 layout: post
 slug: enslaved-people-at-university-of-virginia
+url: /blog/albemarle/2012/01/17/enslaved-people-at-university-of-virginia/
 title: Enslaved People at University of Virginia
 wordpress_id: 320
 categories:

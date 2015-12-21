@@ -5,6 +5,7 @@ date: 2007-04-24 21:06:37+00:00
 excerpt: What is a holler and where are they located ?
 layout: post
 slug: ragged-mountain-hollers
+url: /blog/albemarle/2007/04/24/ragged-mountain-hollers/
 title: Ragged Mountain Hollers
 wordpress_id: 106
 categories:

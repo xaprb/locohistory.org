@@ -5,6 +5,7 @@ date: 2009-06-18 13:47:15+00:00
 excerpt: Commemorate Sacajawea this Friday (June 19th) at 1pm...
 layout: post
 slug: charlottesvilles-commemoration-of-sacajawea
+url: /blog/albemarle/2009/06/18/charlottesvilles-commemoration-of-sacajawea/
 title: Charlottesville's Commemoration of Sacajawea
 wordpress_id: 273
 categories:

@@ -4,6 +4,7 @@ comments: true
 date: 2007-03-19 23:37:45+00:00
 layout: post
 slug: marchants-manufacturing-company
+url: /blog/albemarle/2007/03/19/marchants-manufacturing-company/
 title: Marchant's Manufacturing Company
 wordpress_id: 77
 categories:

@@ -5,6 +5,7 @@ date: 2007-04-07 22:53:46+00:00
 excerpt: 'Where does the name "hungrytown" come from ? '
 layout: post
 slug: hungrytown-part-i
+url: /blog/albemarle/2007/04/07/hungrytown-part-i/
 title: Hungrytown (Part I)
 wordpress_id: 85
 categories:

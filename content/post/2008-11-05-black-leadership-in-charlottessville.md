@@ -6,6 +6,7 @@ excerpt: In conjunction with Obama's historic victory, read about the historic s
   of Charlottesville's African-American community...
 layout: post
 slug: black-leadership-in-charlottessville
+url: /blog/albemarle/2008/11/05/black-leadership-in-charlottessville/
 title: Black Leadership in Charlottesville
 wordpress_id: 242
 categories:

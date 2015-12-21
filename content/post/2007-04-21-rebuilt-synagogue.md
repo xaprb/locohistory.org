@@ -5,6 +5,7 @@ date: 2007-04-21 21:57:17+00:00
 excerpt: An historic synagogue in downtown Charlottesville.
 layout: post
 slug: rebuilt-synagogue
+url: /blog/albemarle/2007/04/21/rebuilt-synagogue/
 title: Rebuilt Synagogue
 wordpress_id: 99
 categories:

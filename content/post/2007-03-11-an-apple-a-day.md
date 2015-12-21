@@ -6,6 +6,7 @@ excerpt: Following on the fruit theme from the last post, what is 1,307 acres, 1
   years old, and 14 miles south of C-ville ?
 layout: post
 slug: an-apple-a-day
+url: /blog/albemarle/2007/03/11/an-apple-a-day/
 title: An Apple A Day...
 wordpress_id: 65
 categories:

@@ -8,6 +8,7 @@ excerpt: Today the <a href="http://ivycreekfoundation.org/ICNA.html">Ivy Creek N
   10 poultry, and many other agricultural features.
 layout: post
 slug: hugh-carr-and-hiking-trails
+url: /blog/albemarle/2007/03/03/hugh-carr-and-hiking-trails/
 title: Hugh Carr and Hiking Trails
 wordpress_id: 57
 categories:

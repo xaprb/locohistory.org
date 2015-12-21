@@ -4,6 +4,7 @@ comments: true
 date: 2011-05-10 15:18:00+00:00
 layout: post
 slug: canada-community-at-uva
+url: /blog/albemarle/2011/05/10/canada-community-at-uva/
 title: Canada Community at UVA
 wordpress_id: 296
 categories:

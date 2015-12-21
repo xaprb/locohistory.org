@@ -4,6 +4,7 @@ comments: true
 date: 2008-02-02 18:20:33+00:00
 layout: post
 slug: beyond-jamestown-virginia-indians-yesterday-today
+url: /blog/albemarle/2008/02/02/beyond-jamestown-virginia-indians-yesterday-today/
 title: 'Beyond Jamestown: Virginia Indians Yesterday & Today'
 wordpress_id: 182
 categories:

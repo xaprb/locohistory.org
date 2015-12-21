@@ -5,6 +5,7 @@ date: 2007-02-19 03:38:03+00:00
 excerpt: Why are some brick buildings decorated with metal stars ?
 layout: post
 slug: structural-stars
+url: /blog/albemarle/2007/02/19/structural-stars/
 title: Structural Stars
 wordpress_id: 49
 categories:

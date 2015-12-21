@@ -5,6 +5,7 @@ date: 2008-04-16 01:55:12+00:00
 excerpt: Cemetery Vandalism at Maplewood
 layout: post
 slug: erasing-our-heritage-one-gravestone-at-a-time
+url: /blog/albemarle/2008/04/16/erasing-our-heritage-one-gravestone-at-a-time/
 title: Erasing Our Heritage One Gravestone at a Time
 wordpress_id: 200
 categories:

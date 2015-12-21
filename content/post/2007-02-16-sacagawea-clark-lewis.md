@@ -4,6 +4,7 @@ comments: true
 date: 2007-02-16 23:10:43+00:00
 layout: post
 slug: sacagawea-clark-lewis
+url: /blog/albemarle/2007/02/16/sacagawea-clark-lewis/
 title: Sacagawea, Clark, & Lewis
 wordpress_id: 15
 categories:

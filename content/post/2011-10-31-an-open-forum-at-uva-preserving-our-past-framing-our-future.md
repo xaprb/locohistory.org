@@ -4,6 +4,7 @@ comments: true
 date: 2011-10-31 14:46:22+00:00
 layout: post
 slug: an-open-forum-at-uva-preserving-our-past-framing-our-future
+url: /blog/albemarle/2011/10/31/an-open-forum-at-uva-preserving-our-past-framing-our-future/
 title: 'An Open Forum at UVA: Preserving Our Past, Framing Our Future'
 wordpress_id: 314
 categories:

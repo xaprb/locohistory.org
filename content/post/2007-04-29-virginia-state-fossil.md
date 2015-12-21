@@ -5,6 +5,7 @@ date: 2007-04-29 14:32:10+00:00
 excerpt: Why a 4 million-year-old scallop is the state fossil of Virginia.
 layout: post
 slug: virginia-state-fossil
+url: /blog/albemarle/2007/04/29/virginia-state-fossil/
 title: Virginia State Fossil
 wordpress_id: 108
 categories:

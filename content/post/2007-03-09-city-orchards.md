@@ -5,6 +5,7 @@ date: 2007-03-09 15:07:35+00:00
 excerpt: How can you use maps to reconstruct C-ville history ?
 layout: post
 slug: city-orchards
+url: /blog/albemarle/2007/03/09/city-orchards/
 title: City Orchards
 wordpress_id: 20
 categories:

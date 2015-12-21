@@ -4,6 +4,7 @@ comments: true
 date: 2007-03-21 13:07:13+00:00
 layout: post
 slug: marchants-manufacturing-building-part-deux
+url: /blog/albemarle/2007/03/21/marchants-manufacturing-building-part-deux/
 title: Marchant's Manufacturing Building, Part Deux
 wordpress_id: 83
 categories:

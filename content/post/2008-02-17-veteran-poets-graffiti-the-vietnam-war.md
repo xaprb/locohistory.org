@@ -7,6 +7,7 @@ excerpt: 'What did soldiers inscribe on the interior of a troop ship that carrie
   current exhibit curated by Art Beltrone: Marking Time: Voyage to Vietnam.....'
 layout: post
 slug: veteran-poets-graffiti-the-vietnam-war
+url: /blog/albemarle/2008/02/17/veteran-poets-graffiti-the-vietnam-war/
 title: 'Veteran Poets: Graffiti & the Vietnam War'
 wordpress_id: 188
 categories:

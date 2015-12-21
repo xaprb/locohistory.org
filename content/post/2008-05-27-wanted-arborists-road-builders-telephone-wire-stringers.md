@@ -6,6 +6,7 @@ excerpt: 'Wanted: Arborists, Road Builders, Telephone Wire Stringers. What year 
   this fictional job advertisement date to ? What does it refer to ?'
 layout: post
 slug: wanted-arborists-road-builders-telephone-wire-stringers
+url: /blog/albemarle/2008/05/27/wanted-arborists-road-builders-telephone-wire-stringers/
 title: 'Wanted: Arborists, Road Builders, Telephone Wire Stringers'
 wordpress_id: 207
 categories:

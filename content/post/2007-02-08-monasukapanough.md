@@ -4,6 +4,7 @@ comments: true
 date: 2007-02-08 03:45:14+00:00
 layout: post
 slug: monasukapanough
+url: /blog/albemarle/2007/02/08/monasukapanough/
 title: Monasukapanough
 wordpress_id: 10
 categories:

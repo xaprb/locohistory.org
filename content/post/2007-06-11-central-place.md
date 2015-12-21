@@ -6,6 +6,7 @@ excerpt: Which C-ville landmark is referred to as "central place."  The Courthou
   ? UVA ? Main Street ? The correct answer is.....
 layout: post
 slug: central-place
+url: /blog/albemarle/2007/06/11/central-place/
 title: Central Place
 wordpress_id: 136
 categories:

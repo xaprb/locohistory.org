@@ -8,6 +8,7 @@ excerpt: 'This historic hotel wins the competition for most renditions of Jeffer
   Which Charlottesville hotel is it ?'
 layout: post
 slug: monticello-hotel
+url: /blog/albemarle/2007/04/14/monticello-hotel/
 title: Monticello Hotel
 wordpress_id: 93
 categories:

@@ -5,6 +5,7 @@ date: 2009-09-13 21:13:40+00:00
 excerpt: An historic cemetery lies all but forgotten in Hungrytown...
 layout: post
 slug: hungrytown-part-ii
+url: /blog/albemarle/2009/09/13/hungrytown-part-ii/
 title: Hungrytown (Part II)
 wordpress_id: 285
 categories:

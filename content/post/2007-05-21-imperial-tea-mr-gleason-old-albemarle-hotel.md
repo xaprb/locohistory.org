@@ -6,6 +6,7 @@ excerpt: It's 1897 in downtown Charlottesville. Where is the fashionable place t
   dine and spend the night ?
 layout: post
 slug: imperial-tea-mr-gleason-old-albemarle-hotel
+url: /blog/albemarle/2007/05/21/imperial-tea-mr-gleason-old-albemarle-hotel/
 title: Imperial Tea, Mr Gleason, & Old Albemarle Hotel
 wordpress_id: 16
 categories:

@@ -6,6 +6,7 @@ excerpt: Map it! an exciting new locoogle feature! Where locohistory meets the G
   Maps Mash-ups.
 layout: post
 slug: map-it-an-exciting-new-locoogle-feature
+url: /blog/albemarle/2007/04/08/map-it-an-exciting-new-locoogle-feature/
 title: Map it! an exciting new locoogle feature!
 wordpress_id: 87
 ---

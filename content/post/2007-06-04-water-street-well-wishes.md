@@ -5,6 +5,7 @@ date: 2007-06-04 01:24:33+00:00
 excerpt: Construction in historic Charlottesville can sometimes net unexpected results...
 layout: post
 slug: water-street-well-wishes
+url: /blog/albemarle/2007/06/04/water-street-well-wishes/
 title: Water Street & Well Wishes
 wordpress_id: 119
 categories:

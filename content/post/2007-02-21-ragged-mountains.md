@@ -5,6 +5,7 @@ date: 2007-02-21 02:02:35+00:00
 excerpt: What is 980 acres, 4 miles long, and contains sassafras and witch hazel ?
 layout: post
 slug: ragged-mountains
+url: /blog/albemarle/2007/02/21/ragged-mountains/
 title: Ragged Mountains
 wordpress_id: 17
 categories:

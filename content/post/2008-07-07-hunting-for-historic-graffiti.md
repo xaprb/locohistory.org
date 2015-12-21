@@ -5,6 +5,7 @@ date: 2008-07-07 13:47:01+00:00
 excerpt: Hunting for Historic Graffiti on the Downtown Mall....
 layout: post
 slug: hunting-for-historic-graffiti
+url: /blog/albemarle/2008/07/07/hunting-for-historic-graffiti/
 title: Hunting for Historic Graffiti
 wordpress_id: 210
 categories:

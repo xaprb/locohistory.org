@@ -6,6 +6,7 @@ excerpt: What do rope ladders, an historic home, and an unidentified cemetery ha
   in common ?
 layout: post
 slug: breezy-oaks-a-keswick-farmhouse
+url: /blog/albemarle/2008/03/13/breezy-oaks-a-keswick-farmhouse/
 title: 'Breezy Oaks: A Keswick Farmhouse'
 wordpress_id: 190
 categories:

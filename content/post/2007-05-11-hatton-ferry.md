@@ -6,6 +6,7 @@ excerpt: What Albemarle County feature includes Richard Thomas (star of the TV s
   "The Waltons") farm produce, and an entry in Wikipedia ?
 layout: post
 slug: hatton-ferry
+url: /blog/albemarle/2007/05/11/hatton-ferry/
 title: Hatton Ferry
 wordpress_id: 113
 categories:

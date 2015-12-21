@@ -5,6 +5,7 @@ date: 2007-03-25 21:17:00+00:00
 excerpt: Where was the first burial ground in Charlottesville ?
 layout: post
 slug: original-charlottesville-burial-ground
+url: /blog/albemarle/2007/03/25/original-charlottesville-burial-ground/
 title: Original Charlottesville Burial Ground
 wordpress_id: 23
 categories:

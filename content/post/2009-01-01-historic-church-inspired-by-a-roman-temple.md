@@ -6,6 +6,7 @@ excerpt: What does a Roman Temple and an historic African American Church have i
   common ?
 layout: post
 slug: historic-church-inspired-by-a-roman-temple
+url: /blog/albemarle/2009/01/01/historic-church-inspired-by-a-roman-temple/
 title: Historic Church Inspired by a Roman Temple
 wordpress_id: 254
 categories:

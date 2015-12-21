@@ -5,6 +5,7 @@ date: 2007-06-07 17:54:54+00:00
 excerpt: 'Cheating a bit: creeping courthouse or sham sign ?'
 layout: post
 slug: creeping-courthouse-or-sham-sign
+url: /blog/albemarle/2007/06/07/creeping-courthouse-or-sham-sign/
 title: Creeping Courthouse or Sham Sign ?
 wordpress_id: 133
 categories:

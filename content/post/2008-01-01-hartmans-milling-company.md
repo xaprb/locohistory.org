@@ -4,6 +4,7 @@ comments: true
 date: 2008-01-01 03:19:42+00:00
 layout: post
 slug: hartmans-milling-company
+url: /blog/albemarle/2008/01/01/hartmans-milling-company/
 title: Hartman's Milling Company
 wordpress_id: 178
 categories:

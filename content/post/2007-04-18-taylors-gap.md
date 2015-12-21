@@ -5,6 +5,7 @@ date: 2007-04-18 14:36:42+00:00
 excerpt: When is a gap an interesting historic feature ?
 layout: post
 slug: taylors-gap
+url: /blog/albemarle/2007/04/18/taylors-gap/
 title: Taylor's Gap
 wordpress_id: 100
 categories:

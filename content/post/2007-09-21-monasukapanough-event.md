@@ -7,6 +7,7 @@ excerpt: Learn more about a Monacan Indian Settlement in Albemarle County this S
   Quarterly Meeting. Read more and get directions in the blog post.....
 layout: post
 slug: monasukapanough-event
+url: /blog/albemarle/2007/09/21/monasukapanough-event/
 title: Monasukapanough, Event
 wordpress_id: 155
 categories:

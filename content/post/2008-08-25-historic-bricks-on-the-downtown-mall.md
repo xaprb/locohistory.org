@@ -5,6 +5,7 @@ date: 2008-08-25 21:44:57+00:00
 excerpt: Join us for the First Annual Downtown Mall Brick Challenge...
 layout: post
 slug: historic-bricks-on-the-downtown-mall
+url: /blog/albemarle/2008/08/25/historic-bricks-on-the-downtown-mall/
 title: Historic Bricks on the Downtown Mall
 wordpress_id: 224
 categories:

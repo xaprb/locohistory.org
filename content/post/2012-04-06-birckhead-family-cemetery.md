@@ -4,6 +4,7 @@ comments: true
 date: 2012-04-06 00:12:36+00:00
 layout: post
 slug: birckhead-family-cemetery
+url: /blog/albemarle/2012/04/06/birckhead-family-cemetery/
 title: Birckhead Family Cemetery
 wordpress_id: 355
 categories:

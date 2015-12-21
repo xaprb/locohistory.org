@@ -7,6 +7,7 @@ excerpt: The Jefferson Colored Graded Elementary School opened in 1894. The firs
   you name ?
 layout: post
 slug: a-man-a-principal-a-park-a-gravestone
+url: /blog/albemarle/2007/09/05/a-man-a-principal-a-park-a-gravestone/
 title: A Man, A Principal, A Park, A Gravestone
 wordpress_id: 144
 categories:

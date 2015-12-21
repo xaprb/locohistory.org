@@ -6,6 +6,7 @@ excerpt: Download an article by a local historian about Slavery at the Universit
   of Virginia
 layout: post
 slug: slavery-at-the-university-of-virginia
+url: /blog/albemarle/2010/08/05/slavery-at-the-university-of-virginia/
 title: Slavery at the University of Virginia
 wordpress_id: 293
 categories:

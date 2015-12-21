@@ -4,6 +4,7 @@ comments: true
 date: 2007-02-12 16:35:57+00:00
 layout: post
 slug: rivanna-river
+url: /blog/albemarle/2007/02/12/rivanna-river/
 title: Rivanna River
 wordpress_id: 27
 categories:

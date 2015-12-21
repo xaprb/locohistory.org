@@ -5,6 +5,7 @@ date: 2007-12-20 14:40:19+00:00
 excerpt: What can we learn from Charlottesville's Cities of the Dead ?
 layout: post
 slug: cities-of-the-dead
+url: /blog/albemarle/2007/12/20/cities-of-the-dead/
 title: Cities of the Dead
 wordpress_id: 176
 categories:
