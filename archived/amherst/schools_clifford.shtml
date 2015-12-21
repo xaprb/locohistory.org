@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" ><!-- InstanceBegin template="/Templates/Amherst-content-links.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>LoCoHistory: Schools</title>
+<!-- InstanceEndEditable -->
+<link rel="stylesheet" href="/Amherst/_includes/css/loco-core.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/Amherst/_includes/css/loco-content.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/Amherst/_includes/css/loco-print.css" type="text/css" media="print" />
+<script type="text/javascript" src="/Amherst/_includes/js/globalFunctions.js"></script>
+<script type="text/javascript">
+	window.onload = init;
+</script>
+<!--<script type="text/javascript">
+	window.onload = initPage;
+	
+	function initPage() {
+		hideSubMenu();
+		//run the main menu script
+		init();
+	}
+	
+	function hideSubMenu() {
+		//add the IDs of all divs you wish to hide
+		hideUL('list_item1');
+		hideUL('list_item2');		
+	}
+	function hideUL(whichID) {
+	  	document.getElementById(whichID).className = "closed";
+	}
+	function displaySubMenu(whichID) {
+		toggleUL(whichID);
+	}
+	function toggleUL(whichID) {
+		var ulObject = document.getElementById(whichID)
+		if (ulObject.className == "closed") {
+			  ulObject.className = "expanded";
+		} else {
+			  ulObject.className = "closed";
+		}
+	}	
+
+
+</script> -->
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+<body class="visits"  id="Amherst">
+<div id="pageContainer">
+	<div id="header">
+	  <div id="bannerText">
+			<a class="blank" href="/Amherst/index.shtml"></a>
+			<h1>LoCoHistory</h1>
+			<!-- InstanceBeginEditable name="Welcome Text" -->
+			<p>One faces the future with one's past. - Pearl S. Buck</p>
+			<!-- InstanceEndEditable --></div>
+	  <div id="menu"><!--#include virtual="/Amherst/_includes/Amherst-menu.html" --></div>
+	</div>
+	<div id="contentBody">
+	<div id="subMenu">
+					<!--#include virtual="/Amherst/_includes/Amherst-submenu-visits.html" -->
+	  </div>
+			<div id="content"><!-- InstanceBeginEditable name="Page Contents" -->
+			  <p><strong><a href="schools.shtml">Three Schools Project in Amherst County</a><br />
+		      Clifford School, Fletcher's Level Road, Clifford, Amherst County </strong></p>
+			  <p>The public school system in Amherst County, Virginia, was set up in the late 19th century.&nbsp; <img src="ThreeSchools/CliffordSch.jpg" />The Clifford School was built at that time as a frame building replacing a previous private school, and had a similar style and shape to other schools being built then in the County.&nbsp; It was a T-shaped building housing three classrooms for grades one through six.&nbsp; The school served the white children of Greater Clifford.  &nbsp;School teachers were housed at 121 Turkey Mountain Road, once the Blacksmith's House.&nbsp; This school had outdoor toilets and was heated by wood stoves. </p>
+			  <p>The &quot;new&quot; Clifford School opened in 1939.<img src="ThreeSchools/Clifford_NewSchool.jpg" /> It had four classrooms and a kitchen.&nbsp; The principal’s office was in one of the classrooms. This was an &quot;improved&quot; building with electricity, central heating, radiators, and bathrooms. The Clifford School continued to serve white children, grades one to seven, from the greater Clifford area until full integration and consolidation of the elementary school system took place. This was court ordered and enforced in Amherst County between 1969-70.</p>
+			  <p><u>Students, Teachers, Parents and Staff Interviewed / Old and New Clifford Schools</u></p>
+			  <ul type="disc">
+                <li>Mary      Brugh is a retired newspaper proofreader for <em>Amherst New Era Progress, </em>who was a parent at Clifford School 1965-67.</li>
+			    <li>Frances      Butler is an innovative community volunteer in the greater Lynchburg area,      and was a student at Clifford School for six years in the 1940s.</li>
+			    <li>Eleanor      Harris Caldwell is a retired secretary for Verizon who was a student at      Clifford School 1955-1961.</li>
+			    <li>Louise      Cash is a retired teacher from the Amherst County School system who was a      student at Clifford School 1925-1932.</li>
+			    <li>Linda      Crews was a high school teacher in Nelson County.&nbsp; She was a student at Clifford      School 1959-1967 and attended Amherst County High School at the time of      integration.</li>
+			    <li>Elizabeth      Garland is a retired hotel industry front office worker who was a&nbsp; student at Clifford School      1925-1931.</li>
+			    <li>Richard      Hanson is the retired founding owner of Rebec Vineyards. He was an active      Parents Association President and a parent at Clifford School for many      years.</li>
+			    <li>Marie      Harris retired as a secretary at Sweet Briar College. She was a parent at      Clifford School and worked there as a cook in the 1950s.</li>
+			    <li>C.      Swanson Jones is the retired owner of George E. Jones Construction      Company. He was a student at Clifford School 1930-37</li>
+			    <li>Ella      Magruder is a professor of dance at Sweet Briar College.&nbsp; She was a student at Clifford      School first through seventh grades and attended Amherst Consolidated High      School during the time of integration. </li>
+			    <li>Helen      Smith Massie is herself a retired teacher, and was the daughter of      Clifford School teacher Mrs. Smith.</li>
+			    <li>Alice      Howell Powell is a retired teacher, who was a student at both the old and      new Clifford Schools in grades one through six in the1930s and 1940s.</li>
+			    <li>Pat      Richeson is the retired assistant to chaplain at Sweet Briar College, who      also has worked as a dance teacher and artist. She was a student at      Clifford School 1947-1953.</li>
+			    <li>Alma      Simmons Rountrey is a poet, and retired high school Latin Teacher who was      an elementary teacher at the old&nbsp;      Clifford School 1935-1937.</li>
+			    <li>Page      Stinnett is a retired newspaper typesetter and printer for the <em>Amherst      New Era Progress</em>. He was a student at      the old Clifford School 1930-1937.</li>
+			    <li>Kitty      Boxley Swanson is a retired bookkeeper, who was a student at the new Clifford      School 1947-1952.</li>
+			    <li>Morris      Thomas retired from the American Cyanamid plant, and is also a farmer. He      was a student at the old Clifford School from the early 1930s through 1938. <br />
+			    </li>
+            </ul>
+			  <p><u>Interviewers for Oral History Videos about the Old and New Clifford Schools</u></p>
+			  <p>Ruthie Ellenson, Sandra Esposito, Lynn Andrew Hanson, Lynn Kable, Mia Magruder, and Kitty Swanson.</p>
+			  <p>To learn more about the other &quot;Three Schools,&quot; click on the photos below. </p>
+			  <table width="80%" border="0">
+                <tr>
+                  <td><a href="schools_clifford.shtml"><img src="ThreeSchools/CliffordSch.jpg" width="141" height="100" border="0" /></a></td>
+                  <td><a href="schools_acts.shtml"><img src="ThreeSchools/TrainingSch.jpg" width="141" height="100" border="0" /></a></td>
+                  <td><a href="schools_bearmountain.shtml"><img src="ThreeSchools/BearMtSch.jpg" width="141" height="100" border="0" /></a></td>
+                </tr>
+                <tr>
+                  <td><div align="center"><em>Clifford School </em></div></td>
+                  <td><div align="center"><em>Amherst County Training School </em></div></td>
+                  <td><div align="center"><em>Bear Mission School </em></div></td>
+                </tr>
+            </table>
+			  <br />
+			  <em>Text written by Lynn Kable, copyright 2010. </em>
+			  <p>&nbsp;</p>
+			  <p>&sect; <a href="http://www.tusculum.sbc.edu/Heritage-NewGlasgow.shtml">Visit the Tusculum Institute website to learn more about the community of Clifford </a></p>
+			  <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+			  <!-- InstanceEndEditable --></div>
+
+
+			
+			<div class="spacer">&nbsp;</div>
+  </div>
+		<div id="footer">
+			<p>Copyright &copy; Prof. Lynn Rainville, 2012. </p>
+            <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1294668-1";
+urchinTracker();
+</script>
+
+			
+			<img src="/_images/footer-cap.gif" width="820" height="12" />		
+		
+		</div>
+</div>
+</div>
+
+
+
+</body>
+
+<!-- InstanceEnd --></html>
+

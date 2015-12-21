@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" ><!-- InstanceBegin template="/Templates/content-visits.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>LoCoHistory: The 1874 Woman's Festival in Charlottesville</title>
+<!-- InstanceEndEditable -->
+<link rel="stylesheet" href="/Albemarle/_includes/css/loco-core.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/Albemarle/_includes/css/loco-content.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/Albemarle/_includes/css/loco-print.css" type="text/css" media="print" />
+<script type="text/javascript" src="/Albemarle/_includes/js/globalFunctions.js"></script>
+<script type="text/javascript" src="/Albemarle/Albemarle/_includes/js/globalFunctions.js"></script>
+<script type="text/javascript">
+	window.onload = init;
+</script>
+<!--<script type="text/javascript">
+	window.onload = initPage;
+	
+	function initPage() {
+		hideSubMenu();
+		//run the main menu script
+		init();
+	}
+	
+	function hideSubMenu() {
+		//add the IDs of all divs you wish to hide
+		hideUL('list_item1');
+		hideUL('list_item2');		
+	}
+	function hideUL(whichID) {
+	  	document.getElementById(whichID).className = "closed";
+	}
+	function displaySubMenu(whichID) {
+		toggleUL(whichID);
+	}
+	function toggleUL(whichID) {
+		var ulObject = document.getElementById(whichID)
+		if (ulObject.className == "closed") {
+			  ulObject.className = "expanded";
+		} else {
+			  ulObject.className = "closed";
+		}
+	}	
+
+
+</script> -->
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+<body class="visits">
+<div id="pageContainer">
+	<div id="header">
+	  <div id="bannerText">
+			<a class="blank" href="/Albemarle/index.shtml"></a>
+			<h1>LoCoHistory</h1>
+			<!-- InstanceBeginEditable name="Welcome Text" -->
+			<p>One faces the future with one's past. - Pearl S. Buck</p>
+			<!-- InstanceEndEditable --></div>
+	  <div id="menu">
+	  	<!--#include virtual="/Albemarle/_includes/menu.html" -->
+		<img src="/Albemarle/_images/logo-peice-content.gif" width="25" height="12" id="logoPeice" />		</div>
+	</div>
+	<div id="contentBody">
+	<div id="subMenu">
+					<!--#include virtual="/Albemarle/_includes/submenu-visits.html" -->
+	  </div>
+			<div id="content"><!-- InstanceBeginEditable name="Page Contents" -->
+		    <h2>The 1874 Woman's Festival in Charlottesville, VA</h2>
+		    <p>Local historian Gayle Schulman discovered a letter published in 1874 about a remarkable woman’s rights event. It was written by Philena Carkin a noted educator of freedmen in Charlottesville, Virginia. The pdf file available below contains Ms. Schulman’s introduction to the historic letter as well as her 2011 transcript of it from the <em>Woman's Journal</em>.</p>
+		    <p> To download a copyrighted version of this annotated letter (as a pdf file), <a href="PhilenaCarkin_WomansFestival.pdf">click here</a>. </p>
+		    <p><span class="readMore style5">Topics covered in the article: </span><br />
+		      Women's suffrage; women's rights; reconstuction education; Jefferson school; 
+		    Charottesville.</p>
+		    <p><span class="readMore style5">People discussed in the article: </span><br />
+			  Philena Carkin, Anna Gardner, Mrs. E.D. Cheney, Harriet B. Stowe, Mary A. Livermore, Rosa Hull, Maria Lewis, Augusta Lewis, Harriet Wayne, William Jones, Julia Ward Howe, Henry Browne Blackwell, Lucy Stone. </p>
+			  <p><span class="readMore style5">Other Local History Research by Gayle M. Schulman: </span><br />
+		    &quot;'Shall We Become A City?” The Story of Charlottesville’s Incorporation as a City in 1888.&quot; <em>Magazine of Albemarle County History</em> Vol. 46. </p>
+			  <p>Slavery at the University of Virginia. <a href="Slavery_at_UVA.shtml">Click here for the article</a>. <br />
+			      <br />
+		         “The Gibbons Family: Freedmen.” <em>Magazine of Albemarle County History</em> Vol. 55.<br />
+			    <br />
+		        <a href="http://www2.lib.virginia.edu/small/collections/duke/recollections/">Transcription of The Recollections of Judge R.T.W. Duke  </a><br />
+		    Albert and Shirley Small Special Collections Library, University of Virginia. Extracts published in Magazine of Albemarle County History Vol.  52, and Vol. 59.</p>
+			  <p> <a href="http://search.lib.virginia.edu/catalog/u3862127">Transcription of the Reminiscences of Philena Carkin</a>, Charlottesville Freedmen’s School teacher 1866-1875 Albert and Shirley Small Special Collections Library, University of Virginia. </p>
+			  <p>Research projects done as a member of the African American Genealogy Group of Charlottesville Albemarle list on the <a href="http://aagg.avenue.org/resources.html">AAGGC Resources Page</a>. &nbsp;</p>
+			  <p>&quot;Site of Slave Block?&quot; <em>Magazine of Albemarle County History</em> Vol. 58.</p>
+			  <p>&quot;Learning in the Charlottesville Freedmen’s School: the First Jefferson School&quot; <em>Magazine of Albemarle County History</em> Vol. 64&nbsp;</p>
+			  <p><br />
+		      </p>
+			  <!-- InstanceEndEditable --></div>
+
+
+			
+			<div class="spacer">&nbsp;</div>
+  </div>
+		<div id="footer">
+			<p>Copyright &copy; Prof. Lynn Rainville, 2012. </p>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1294668-1";
+urchinTracker();
+</script>
+
+			
+			<img src="/Albemarle/_images/footer-cap.gif" width="820" height="12" />		
+		
+		</div>
+</div>
+</div>
+
+
+
+</body>
+
+<!-- InstanceEnd --></html>
+

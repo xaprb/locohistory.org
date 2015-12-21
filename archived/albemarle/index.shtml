@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/home.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>LoCoHistory</title>
+<!-- InstanceEndEditable -->
+<link href="/Albemarle/_includes/css/loco-core.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/Albemarle/_includes/css/loco-home.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/Albemarle/_includes/css/loco-print.css" rel="stylesheet" type="text/css" media="print" />
+<!-- InstanceBeginEditable name="Stylesheet" --><!-- InstanceEndEditable -->
+<script type="text/javascript" src="/Albemarle/_includes/js/globalFunctions.js"></script>
+<script type="text/javascript">
+	window.onload = init;
+</script>
+<!-- InstanceBeginEditable name="Script" -->
+<style type="text/css">
+<!--
+.style3 {
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+-->
+</style>
+<!-- InstanceEndEditable -->
+</head>
+<body class="home">
+<a class="skipNav" href="#content">Skip Main Navigation</a>
+<div id="pageContainer">
+	<div id="header">
+	  <div id="bannerText">
+			<a name="home" class="blank" href="/Albemarle/index.shtml"></a>
+			<h1>LoCoHistory</h1>
+			<!-- InstanceBeginEditable name="Welcome Message" -->
+			<p>Take an hour to walk through Charlottesville and Albemarle's historic past. Gaze through old maps. Learn more about local history. This site compiles historic tidbits about Albemarle County and its past inhabitants.</p>
+			<!-- InstanceEndEditable --></div>
+	  	<div id="menu">
+		<!--#include virtual="/Albemarle/_includes/menu.html" -->
+  	  </div>
+	</div>
+	<div id="contentBody">
+	  <div id="columnOne">
+		<div id="LoCoNotes"><!-- InstanceBeginEditable name="LoCoNotes Title" -->
+				  <h2><span class="yellow">LoCo</span><span class="red">Notes</span></h2>
+				  <!-- InstanceEndEditable --><!-- InstanceBeginEditable name="LoCoNotes Text" -->
+				  <p>This digital history website was created by <a href="mailto:lrainville@sbc.edu">Dr. Lynn Rainville</a> to share information about Albemarle   County History (including the City of Charlottesville, Virginia). Human history   in the area begins 1000s of years ago with Native American villages. This blog   focuses on the past 300 years of history in the region, ca. 1700-2000 CE. Most   importantly it&rsquo;s about getting out and exploring community histories and sharing   local knowledge. Please contribute historical tidbits that pertain to Albemarle   County. </p>
+		    <!-- InstanceEndEditable --></div>
+				<!-- InstanceBeginEditable name="Donations Region" -->
+				<div id="Donate"><a href="donate.shtml"><img src="_images/donate-button.gif" alt="Donate your story to LoCoHistory" width="208" height="35" border="0" /></a></div>
+		<!-- InstanceEndEditable --></div>
+			<div id="columnTwo">
+				<div id="siteBearings"><!-- InstanceBeginEditable name="Site Bearings" -->
+				  <p>Explore the links above for more information about <a href="../Amherst/index.shtml">Amherst County</a> and <a href="index.shtml">Albemarle County</a>. Each county has an attendant &quot;blog&quot; (<a href="http://www.locohistory.org/blog/albemarle/">Albemarle Blog</a>; <a href="http://www.locohistory.org/blog/amherst/">Amherst Blog</a>) with occasional posts about local artifacts and features. Visit our &quot;<a href="gravematters.shtml">Gravestone</a>&quot; archive to learn more about mortuary patterns in local cemeteries. And click on the &quot;<a href="kids.shtml">kids</a>&quot; menu for historically-oriented treasure hunts in Charlottesvill<a href="ForSale.shtml">e</a>. </p>
+				  <!-- InstanceEndEditable --></div>
+				<div id="LoCoBlog"><!-- InstanceBeginEditable name="Blog Title" -->
+				  <h2><span class="yellow">LoCo</span><span class="red">Blog</span></h2>
+				  <!-- InstanceEndEditable --><!-- InstanceBeginEditable name="Blog Text" -->
+				  <p>Sign up to be notified of new entries to the LoCoBlog! </p>
+				  <p align="right"><a href="blog-feed.shtml" class="readMore">Sign up  &raquo;</a></p>
+				  <!-- InstanceEndEditable --></div>
+			</div>
+			<div id="columnThree">
+				<div id="gravestone"><!-- InstanceBeginEditable name="Grave Titlee" -->
+				  <h2><span class="red">Gravestone</span><br />
+				      <span class="yellowSmall"> &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; of the </span><span class="red">Week</span></h2>
+				<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="Grave Image" -->
+				<div align="center"><img src="Graves/gotw.jpg" width="144" height="144" /></div>
+				<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="Grave Text" -->
+				<p class="style3">Lambs are popular symbols, especially on children's graves. Usually lambs are placed at the top of a stone, and occasionally are carved in 3-D. This lamb is more charismatic than most, with its two legs hanging off the oval within the headstone and partially sitting on a daisy. The deceased was an infant who lived less than 2 months. <br />
+			    <a href="http://www.locohistory.org/gravematters.shtml" class="readMore">View Gravestone Archives &raquo;</a></p>
+				<!-- InstanceEndEditable --></div>
+			</div>
+			<div class="spacer">&nbsp;</div>
+  </div>
+		<!--#include virtual="/Albemarle/_includes/footer.html" -->
+</div>
+</body>
+<!-- InstanceEnd --></html>

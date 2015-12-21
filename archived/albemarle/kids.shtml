@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" ><!-- InstanceBegin template="/Templates/content-visits.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>LoCoHistory: History for Kids</title>
+<!-- InstanceEndEditable -->
+<link rel="stylesheet" href="/Albemarle/_includes/css/loco-core.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/Albemarle/_includes/css/loco-content.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/Albemarle/_includes/css/loco-print.css" type="text/css" media="print" />
+<script type="text/javascript" src="/Albemarle/_includes/js/globalFunctions.js"></script>
+<script type="text/javascript" src="/Albemarle/_includes/js/globalFunctions.js"></script>
+<script type="text/javascript">
+	window.onload = init;
+</script>
+<!--<script type="text/javascript">
+	window.onload = initPage;
+	
+	function initPage() {
+		hideSubMenu();
+		//run the main menu script
+		init();
+	}
+	
+	function hideSubMenu() {
+		//add the IDs of all divs you wish to hide
+		hideUL('list_item1');
+		hideUL('list_item2');		
+	}
+	function hideUL(whichID) {
+	  	document.getElementById(whichID).className = "closed";
+	}
+	function displaySubMenu(whichID) {
+		toggleUL(whichID);
+	}
+	function toggleUL(whichID) {
+		var ulObject = document.getElementById(whichID)
+		if (ulObject.className == "closed") {
+			  ulObject.className = "expanded";
+		} else {
+			  ulObject.className = "closed";
+		}
+	}	
+
+
+</script> -->
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+<body class="visits">
+<div id="pageContainer">
+	<div id="header">
+	  <div id="bannerText">
+			<a class="blank" href="../"></a>
+			<h1>LoCoHistory</h1>
+			<!-- InstanceBeginEditable name="Welcome Text" -->
+			<p>One faces the future with one's past. - Pearl S. Buck</p>
+			<!-- InstanceEndEditable --></div>
+	  <div id="menu">
+	  	<!--#include virtual="/Albemarle/_includes/menu.html" -->
+		<img src="/Albemarle/_images/logo-peice-content.gif" width="25" height="12" id="logoPeice" />		</div>
+	</div>
+	<div id="contentBody">
+	<div id="subMenu">
+					<!--#include virtual="/Albemarle/_includes/submenu-visits.html" -->
+	  </div>
+			<div id="content"><!-- InstanceBeginEditable name="Page Contents" -->
+		    <h2>Living History !</h2>
+		    <p>Search here for educational resources, including SOL-based quizzes on local history, historical treasure hunts, and puzzles. </p>
+			  <p><span class="readMore style5">External Sites: </span><br />
+			    <span class="yellow"><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;ll=38.032446,-78.479955&amp;spn=0.002544,0.003288&amp;t=k&amp;z=18&amp;om=1&amp;msid=111064276438729927315.00000112b405d528135d1"></a></span>&sect; <a href="http://avenue.org/smuseum/education/home.html">Scottsville Scavenger Hunt for Local History</a></p>
+			  <p>&sect; <a href="http://www.sequent.org/lynn/Mall_home.html">History on the Downtown Mall</a> <a href="http://www.amazon.com/Street-Atlas-Albemarle-County-Virginia/dp/0875307914/sr=1-1/qid=1170607609/ref=sr_1_1/104-1589793-7783153?ie=UTF8&amp;s=books"></a> </p>
+			  <p>§ <a href="kids_tour1.shtml">Search for historic clues at Court Square</a> </p>
+			  <p><span class="readMore style5">Word Puzzle with Local Knowledge-Based Clues </span></p>
+			  <p><strong>Locate the following words in the puzzle</strong>: Albemarle, Crozet, Oakwood Cemetery, Queen, Ragged Mountain, Rivanna, Stagecoach, Tonsler, and University. Note: the words can be horizontal, vertical, backwards, or at an angle. Good luck! </p>
+			  <p align="left"><img src="Puzzle1_letters.jpg" width="400" height="342" /></p>
+			  <p><br />
+		      </p>
+			  <!-- InstanceEndEditable --></div>
+
+
+			
+			<div class="spacer">&nbsp;</div>
+  </div>
+		<div id="footer">
+			<p>Copyright &copy; Prof. Lynn Rainville, 2010. </p>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1294668-1";
+urchinTracker();
+</script>
+
+			
+			<img src="/Albemarle/_images/footer-cap.gif" width="820" height="12" />		</div>
+</div>
+</div>
+
+
+
+</body>
+
+<!-- InstanceEnd --></html>
+
