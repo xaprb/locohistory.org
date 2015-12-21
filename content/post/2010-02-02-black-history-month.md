@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2010/02/1790mapslaveryamherstsm1-300x214.jpg
 author: admin
 comments: true
 date: 2010-02-02 17:00:10+00:00

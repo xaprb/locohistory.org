@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/03/michiehoecakes.jpg
 author: admin
 comments: true
 date: 2007-03-16 00:26:03+00:00

@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2012/04/birckhead-family-cemetery-lockwood-drive-300x170.jpg
 author: admin
 comments: true
 date: 2012-04-06 00:12:36+00:00

@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/11/eatchicken.jpg
 author: admin
 comments: true
 date: 2007-11-19 16:41:19+00:00

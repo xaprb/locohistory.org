@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2012/05/memday_flags.jpg
 author: admin
 comments: true
 date: 2012-05-27 21:49:32+00:00

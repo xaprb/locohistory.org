@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/09/greenwoodschool_fisk.jpg
 author: admin
 comments: true
 date: 2008-09-29 01:22:21+00:00

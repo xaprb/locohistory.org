@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2010/02/signorahollinsb1.jpg
 author: admin
 comments: true
 date: 2010-02-13 17:54:29+00:00

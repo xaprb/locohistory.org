@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2009/09/hungrytownhouse.jpg
 author: admin
 comments: true
 date: 2009-09-13 21:13:40+00:00

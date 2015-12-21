@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/06/sirjamherst.jpg
 author: admin
 comments: true
 date: 2008-06-04 20:37:18+00:00

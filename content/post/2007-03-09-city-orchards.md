@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/03/applest_1920.jpg
 author: admin
 comments: true
 date: 2007-03-09 15:07:35+00:00

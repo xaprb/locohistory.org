@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/04/ragmts_hollers.jpg
 author: admin
 comments: true
 date: 2007-04-24 21:06:37+00:00

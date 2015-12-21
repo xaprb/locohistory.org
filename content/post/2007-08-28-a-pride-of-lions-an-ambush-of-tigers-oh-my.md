@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/08/penguins1.jpg
 author: admin
 comments: true
 date: 2007-08-28 01:10:51+00:00

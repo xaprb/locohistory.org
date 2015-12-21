@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/05/gleason1.jpg
 author: admin
 comments: true
 date: 2007-05-21 13:40:36+00:00

@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2009/06/lewisclark_postcard.jpg
 author: admin
 comments: true
 date: 2009-06-18 13:47:15+00:00

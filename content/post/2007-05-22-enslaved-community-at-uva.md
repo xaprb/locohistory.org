@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/05/crackerbox1.jpg
 author: admin
 comments: true
 date: 2007-05-22 21:34:41+00:00

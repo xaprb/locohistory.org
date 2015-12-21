@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/06/parkstsigns.jpg
 author: admin
 comments: true
 date: 2007-06-19 00:47:41+00:00

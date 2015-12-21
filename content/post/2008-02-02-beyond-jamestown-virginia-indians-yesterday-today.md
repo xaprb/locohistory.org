@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/02/beyjames_overview.jpg
 author: admin
 comments: true
 date: 2008-02-02 18:20:33+00:00

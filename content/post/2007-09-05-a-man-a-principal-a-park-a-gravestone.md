@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/09/tonsler_gs.jpg
 author: admin
 comments: true
 date: 2007-09-05 01:30:40+00:00

@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/11/benjamintonslerhse.jpg
 author: admin
 comments: true
 date: 2008-11-05 14:07:14+00:00

@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/04/wwii_exhibit.jpg
 author: admin
 comments: true
 date: 2007-04-30 01:16:45+00:00

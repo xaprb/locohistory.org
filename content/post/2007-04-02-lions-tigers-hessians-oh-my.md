@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/03/hessian.jpg
 author: admin
 comments: true
 date: 2007-04-02 03:17:31+00:00

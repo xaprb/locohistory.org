@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/02/ragmt_lake.jpg
 author: admin
 comments: true
 date: 2007-02-21 02:02:35+00:00

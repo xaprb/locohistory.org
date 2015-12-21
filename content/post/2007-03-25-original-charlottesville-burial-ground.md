@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/03/graveyard_original.jpg
 author: admin
 comments: true
 date: 2007-03-25 21:17:00+00:00

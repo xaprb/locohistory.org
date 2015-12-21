@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/04/monthotrug.jpg
 author: admin
 comments: true
 date: 2007-04-14 23:37:25+00:00

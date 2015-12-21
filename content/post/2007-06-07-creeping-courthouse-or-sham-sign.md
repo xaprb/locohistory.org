@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/06/monticellosign1.jpg
 author: admin
 comments: true
 date: 2007-06-07 17:54:54+00:00

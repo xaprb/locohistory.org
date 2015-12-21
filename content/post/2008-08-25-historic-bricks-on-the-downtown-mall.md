@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/08/brick1.jpg
 author: admin
 comments: true
 date: 2008-08-25 21:44:57+00:00

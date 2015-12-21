@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/06/trolleycarfrysprings.jpg
 author: admin
 comments: true
 date: 2007-06-22 16:58:42+00:00

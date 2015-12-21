@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/07/brand_brand.jpg
 author: admin
 comments: true
 date: 2008-07-28 02:16:53+00:00

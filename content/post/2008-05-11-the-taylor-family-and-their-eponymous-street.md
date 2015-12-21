@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/05/taylorsthistplaque.jpg
 author: admin
 comments: true
 date: 2008-05-11 00:10:22+00:00

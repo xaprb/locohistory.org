@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/03/ccg_gs.jpg
 author: admin
 comments: true
 date: 2008-03-13 19:58:07+00:00

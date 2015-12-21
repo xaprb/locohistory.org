@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/09/monasukapanoughcomputer.jpg
 author: admin
 comments: true
 date: 2007-09-21 15:35:10+00:00

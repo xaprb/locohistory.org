@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/11/kinglumberco.jpg
 author: admin
 comments: true
 date: 2007-11-07 16:09:38+00:00

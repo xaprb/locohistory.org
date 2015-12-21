@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/05/wackywell1.jpg
 author: admin
 comments: true
 date: 2007-06-04 01:24:33+00:00

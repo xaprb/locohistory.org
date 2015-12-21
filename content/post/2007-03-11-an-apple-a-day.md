@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/03/covesvillemap_1875.jpg
 author: admin
 comments: true
 date: 2007-03-11 14:04:20+00:00

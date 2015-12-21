@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/12/hartmansmill.jpg
 author: admin
 comments: true
 date: 2008-01-01 03:19:42+00:00

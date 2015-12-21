@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2012/05/250_events2012-300x216.jpg
 author: admin
 comments: true
 date: 2012-05-23 13:05:33+00:00

@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/10/mtviewchurch.jpg
 author: admin
 comments: true
 date: 2007-10-15 16:55:22+00:00

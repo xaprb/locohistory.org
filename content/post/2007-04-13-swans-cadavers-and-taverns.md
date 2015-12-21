@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/04/swantav1.jpg
 author: admin
 comments: true
 date: 2007-04-13 12:10:00+00:00

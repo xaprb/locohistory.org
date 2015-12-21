@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/04/locoogle.jpg
 author: admin
 comments: true
 date: 2007-04-08 12:47:12+00:00

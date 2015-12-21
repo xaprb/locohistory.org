@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/02/earlalb.jpg
 author: admin
 comments: true
 date: 2007-02-03 19:32:13+00:00

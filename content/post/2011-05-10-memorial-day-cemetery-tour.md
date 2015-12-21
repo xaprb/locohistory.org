@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2011/05/mpl_1913.jpg
 author: admin
 comments: true
 date: 2011-05-10 15:36:20+00:00

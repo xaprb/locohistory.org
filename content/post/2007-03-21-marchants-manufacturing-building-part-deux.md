@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/03/marchantsanborn.jpg
 author: admin
 comments: true
 date: 2007-03-21 13:07:13+00:00

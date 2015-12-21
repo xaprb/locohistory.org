@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2011/10/uvaslavery_memorial-150x150.jpg
 author: admin
 comments: true
 date: 2011-10-31 14:46:22+00:00

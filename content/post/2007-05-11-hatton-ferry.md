@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/05/hattonferryphs.jpg
 author: admin
 comments: true
 date: 2007-05-11 01:45:32+00:00

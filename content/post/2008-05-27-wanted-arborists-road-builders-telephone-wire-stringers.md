@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/05/ccc_worker.jpg
 author: admin
 comments: true
 date: 2008-05-27 03:48:02+00:00

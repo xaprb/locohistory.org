@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/04/fossil_chesapectenjeffersonius.jpg
 author: admin
 comments: true
 date: 2007-04-29 14:32:10+00:00

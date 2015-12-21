@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/02/rivanna_billemory.jpg
 author: admin
 comments: true
 date: 2007-02-12 16:35:57+00:00

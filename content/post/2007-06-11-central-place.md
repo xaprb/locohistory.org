@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/06/fountainmall.jpg
 author: admin
 comments: true
 date: 2007-06-11 01:04:20+00:00

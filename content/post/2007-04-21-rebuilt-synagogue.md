@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/04/synagogue.jpg
 author: admin
 comments: true
 date: 2007-04-21 21:57:17+00:00

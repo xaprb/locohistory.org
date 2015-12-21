@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2012/01/henrymartin1.jpg
 author: admin
 comments: true
 date: 2012-01-17 01:51:49+00:00

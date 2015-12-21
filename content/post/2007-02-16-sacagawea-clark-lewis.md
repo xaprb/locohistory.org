@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/02/sacagewea.jpg
 author: admin
 comments: true
 date: 2007-02-16 23:10:43+00:00

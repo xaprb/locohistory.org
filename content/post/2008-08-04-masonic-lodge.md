@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/08/secretsoc_gs.jpg
 author: admin
 comments: true
 date: 2008-08-04 20:01:10+00:00

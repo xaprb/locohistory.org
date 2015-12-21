@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/02/vietnamgraffitiexhibit.jpg
 author: admin
 comments: true
 date: 2008-02-17 16:30:01+00:00

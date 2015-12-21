@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/12/vermiculite_egghatch.jpg
 author: admin
 comments: true
 date: 2007-12-15 12:12:28+00:00

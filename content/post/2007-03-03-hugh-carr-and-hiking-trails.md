@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/03/carrcem.jpg
 author: admin
 comments: true
 date: 2007-03-03 22:49:15+00:00

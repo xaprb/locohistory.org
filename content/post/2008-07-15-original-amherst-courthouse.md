@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/07/amhcthse_map.jpg
 author: admin
 comments: true
 date: 2008-07-15 22:54:49+00:00

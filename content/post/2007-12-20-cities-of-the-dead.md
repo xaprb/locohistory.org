@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/12/cemoverview.jpg
 author: admin
 comments: true
 date: 2007-12-20 14:40:19+00:00

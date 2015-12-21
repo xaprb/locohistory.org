@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/03/marchantbldg.jpg
 author: admin
 comments: true
 date: 2007-03-19 23:37:45+00:00

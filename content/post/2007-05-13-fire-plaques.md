@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/05/fireplaque.jpg
 author: admin
 comments: true
 date: 2007-05-13 22:48:26+00:00

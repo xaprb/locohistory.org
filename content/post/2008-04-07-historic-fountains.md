@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/04/fountain1892.jpg
 author: admin
 comments: true
 date: 2008-04-07 18:43:19+00:00

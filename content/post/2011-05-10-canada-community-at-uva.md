@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2011/05/fostersitemap1.jpg
 author: admin
 comments: true
 date: 2011-05-10 15:18:00+00:00

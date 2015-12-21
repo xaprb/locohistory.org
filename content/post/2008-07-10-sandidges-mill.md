@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/07/sandidge1.jpg
 author: admin
 comments: true
 date: 2008-07-10 00:19:14+00:00

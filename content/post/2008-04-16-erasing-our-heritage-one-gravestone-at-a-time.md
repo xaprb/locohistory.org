@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/04/mpl_vandal1.jpg
 author: admin
 comments: true
 date: 2008-04-16 01:55:12+00:00

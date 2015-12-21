@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/04/bee.jpg
 author: admin
 comments: true
 date: 2007-05-02 23:37:04+00:00

@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/10/mcconnell1.jpg
 author: admin
 comments: true
 date: 2007-10-29 13:30:32+00:00

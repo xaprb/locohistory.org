@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/03/barracks1960s.jpg
 author: admin
 comments: true
 date: 2007-03-14 20:29:28+00:00

@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/07/histgraffiti.jpg
 author: admin
 comments: true
 date: 2008-07-07 13:47:01+00:00

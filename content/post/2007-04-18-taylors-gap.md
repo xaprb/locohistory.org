@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/04/taylorsgapmap.jpg
 author: admin
 comments: true
 date: 2007-04-18 14:36:42+00:00

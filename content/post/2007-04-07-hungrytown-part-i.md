@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/04/hungrytownmap.jpg
 author: admin
 comments: true
 date: 2007-04-07 22:53:46+00:00

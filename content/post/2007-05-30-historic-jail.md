@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/05/jail.jpg
 author: admin
 comments: true
 date: 2007-05-30 01:50:06+00:00

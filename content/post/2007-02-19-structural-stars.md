@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2007/02/stars.jpg
 author: admin
 comments: true
 date: 2007-02-19 03:38:03+00:00

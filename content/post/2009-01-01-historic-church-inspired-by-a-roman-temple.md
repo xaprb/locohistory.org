@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/12/bethel2.jpg
 author: admin
 comments: true
 date: 2009-01-01 01:55:43+00:00

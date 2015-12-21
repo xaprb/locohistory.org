@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/05/kearfootwoodhse.jpg
 author: admin
 comments: true
 date: 2008-05-27 18:17:39+00:00

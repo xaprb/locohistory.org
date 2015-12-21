@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2012/07/DeathDying1-300x225.jpg
 author: admin
 comments: true
 date: 2012-07-17 13:37:29+00:00

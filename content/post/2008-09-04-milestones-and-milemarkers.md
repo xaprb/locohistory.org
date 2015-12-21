@@ -1,4 +1,5 @@
 ---
+banner: /wp-content/uploads/2008/09/milemarker_l52.jpg
 author: admin
 comments: true
 date: 2008-09-04 13:02:45+00:00
