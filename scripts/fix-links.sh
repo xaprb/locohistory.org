@@ -2,6 +2,7 @@
 
 # TODO:
 # gravematters.shmtml
+# /albemarle/Slavery_at_UVA.shtml -> /albemarle/slavery-at-uva/
 
 # unwrap wordpress attachments
 # :%s/\[!\[\([^\]]*\)\](\(http:\/\/www.locohistory.org[^)]*.jpg\))\](http:[^)]*) */\r\r![\1](\2)\r\r/gc
