@@ -18,7 +18,11 @@ Editorial note: I will be in the field for much of the next two months so there 
 
 
 
-Before I go, a post on summer vacation's past: Fry's Spring. Although hard to believe today, in the 19thC Fry's Spring was at the end of the street-car line and, [![Dukeâ€™s Trolley to Fryâ€™s Spring (Duke Collection, University of Virginia Library)](http://www.locohistory.org/blog/wp-content/uploads/2007/06/trolleycarfrysprings.jpg)](http://www.locohistory.org/blog/?attachment_id=141)even earlier, was considered a country retreat. The "Fry" refers to James Francis Fry who was given 300 acres along Moore's Creek in 1839 by his father-in-law. In 1875, Captain James A. Harris purchased a much smaller lot within the original boundary and it became a popular spot for leisure activities. Earlier, in the 1850s, the spring became known for its "healing waters." With the introduction of an electric trolley in 1895, Fry's Spring became even more popular and the owners introduced a dance pavilion, theater, and amusement park rides.  
+Before I go, a post on summer vacation's past: Fry's Spring. Although hard to believe today, in the 19thC Fry's Spring was at the end of the street-car line and, 
+
+![Dukeâ€™s Trolley to Fryâ€™s Spring (Duke Collection, University of Virginia Library)](/wp-content/uploads/2007/06/trolleycarfrysprings.jpg)
+
+even earlier, was considered a country retreat. The "Fry" refers to James Francis Fry who was given 300 acres along Moore's Creek in 1839 by his father-in-law. In 1875, Captain James A. Harris purchased a much smaller lot within the original boundary and it became a popular spot for leisure activities. Earlier, in the 1850s, the spring became known for its "healing waters." With the introduction of an electric trolley in 1895, Fry's Spring became even more popular and the owners introduced a dance pavilion, theater, and amusement park rides.  
 
 Other origins for modern-day names in this neighborhood: (1) James Fry built a house called Azelea Hall (hence the modern-day 'Azelea Park'). (2) The Jefferson Park Hotel was built nearby in 1892 (preserved in the modern-day street name, Jefferson Park Avenue, usually shortened to JPA). The hotel burned in 1910 and was replaced by the current building associated with the [Fry's Spring Beach Club.](http://fsbc.net/)
 

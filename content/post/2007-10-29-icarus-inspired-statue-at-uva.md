@@ -15,12 +15,20 @@ categories:
 - World War I
 ---
 
-[![mcconnell1.jpg](http://www.locohistory.org/blog/wp-content/uploads/2007/10/mcconnell1.jpg)](http://www.locohistory.org/blog/?attachment_id=164) Where is the statue dedicated to James Rogers McConnell (1887-1917)? Hint 1: it's on the grounds of UVA. Hint 2: the statue is of a naked man, standing on globe, attempting to fly. Hint 3: the design is based on the Greek myth of Icarus (the son of Daedalus who flew too close to the sun with wings of feathers and wax).
+
+
+![mcconnell1.jpg](/wp-content/uploads/2007/10/mcconnell1.jpg)
+
+Where is the statue dedicated to James Rogers McConnell (1887-1917)? Hint 1: it's on the grounds of UVA. Hint 2: the statue is of a naked man, standing on globe, attempting to fly. Hint 3: the design is based on the Greek myth of Icarus (the son of Daedalus who flew too close to the sun with wings of feathers and wax).
 
 
 
 
-Gutzon Borglum carved the statue in 1919 to commemorate a UVA alumnus (class of 1908) who was shot down over France during World War I. McConnell was an American but he enlisted in the French aviation drill called the Lafayette Escadrille. [![mcconnell2.jpg](http://www.locohistory.org/blog/wp-content/uploads/2007/10/mcconnell2.jpg)](http://www.locohistory.org/blog/?attachment_id=166) James McConnell was killed one month before the US entered the war (making him the last American citizen to die under French command before the US declared war on Germany).
+Gutzon Borglum carved the statue in 1919 to commemorate a UVA alumnus (class of 1908) who was shot down over France during World War I. McConnell was an American but he enlisted in the French aviation drill called the Lafayette Escadrille. 
+
+![mcconnell2.jpg](/wp-content/uploads/2007/10/mcconnell2.jpg)
+
+James McConnell was killed one month before the US entered the war (making him the last American citizen to die under French command before the US declared war on Germany).
 
 
 

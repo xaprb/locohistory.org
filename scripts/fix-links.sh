@@ -1,5 +1,11 @@
 #!/bin/sh
 
+# unwrap wordpress attachments
+# :%s/\[!\[\([^\]]*\)\](\(http:\/\/www.locohistory.org[^)]*.jpg\))\](http:[^)]*) */\r\r![\1](\2)\r\r/gc
+
+
+# danger - some of these eat too much content.
+
 cd ../content/blog
 sed -i '' -e 's!<a href="\([^"]*\)".*>\(.*\)</a>![\2](\1)!g' *.md
 #sed -i '' -e "s#<a href='\([^']*\)'.*>\(.*\)</a>#[\\2](\\1)#g" *.md
@@ -22,3 +28,5 @@ blog $ sed -i '' -e 's!class="[^"]*"!!g' *.md
 blog $ sed -i '' -e 's!title="[^"]*"!!g' *.md
 
 blog $ sed -i '' -e 's!.thumbnail.jpg!.jpg!g' *.md
+
+

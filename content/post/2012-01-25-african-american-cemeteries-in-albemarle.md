@@ -18,7 +18,15 @@ Attend a free lecture on local African-American Cemeteries by Dr. Lynn Rainville
 
 
 
-[![](http://www.locohistory.org/blog/albemarle/wp-content/uploads/2012/01/cemtalk-300x100.jpg)](http://www.locohistory.org/blog/albemarle/wp-content/uploads/2012/01/cemtalk.jpg)
+
+
+![](/wp-content/uploads/2012/01/cemtalk-300x100.jpg)
+
+
 
 Prior to the talk, explore a [related website](http://www2.vcdh.virginia.edu/cem/) designed by Prof. Rainville that includes information about dozens of historic, black cemeteries in Albemarle and Amherst Counties. Below is an excerpt from a walking tour of Charlottesville's historic Daughters of Zion Cemetery (located minutes away from the Downtown Mall). Clicking on the image will take you to a virtual tour but please get out to see the real thing!
-[![](http://www.locohistory.org/blog/albemarle/wp-content/uploads/2012/01/doz_wakingtour2.jpg)](http://www.locohistory.org/blog/albemarle/wp-content/uploads/2012/01/doz_wakingtour2.jpg)
+
+
+![](/wp-content/uploads/2012/01/doz_wakingtour2.jpg)
+
+

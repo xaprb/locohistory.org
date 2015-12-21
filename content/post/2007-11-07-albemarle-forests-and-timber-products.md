@@ -20,7 +20,11 @@ This Sunday the Albemarle Charlottesville Historical Society (ACHS) hosts an ope
 
 
 
-When settlers first arrived in Albemarle they spent [![Former King Lumber Warehouse](http://www.locohistory.org/blog/wp-content/uploads/2007/11/kinglumberco.jpg)](http://www.locohistory.org/blog/?attachment_id=168) a great deal of time clearing the then heavily forested Piedmont. Shortly there after, this lumber was used to build houses and fences. In the early 20th Century, W.W. King built a warehouse for storing timber products, shown here in an old photograph (the warehouse, not Reid's Supermarket). This company went out of business during the depression, but many other industries flourished and continue into the present. Come join us this Sunday to learn more about this historic industry.
+When settlers first arrived in Albemarle they spent 
+
+![Former King Lumber Warehouse](/wp-content/uploads/2007/11/kinglumberco.jpg)
+
+a great deal of time clearing the then heavily forested Piedmont. Shortly there after, this lumber was used to build houses and fences. In the early 20th Century, W.W. King built a warehouse for storing timber products, shown here in an old photograph (the warehouse, not Reid's Supermarket). This company went out of business during the depression, but many other industries flourished and continue into the present. Come join us this Sunday to learn more about this historic industry.
 
 
 

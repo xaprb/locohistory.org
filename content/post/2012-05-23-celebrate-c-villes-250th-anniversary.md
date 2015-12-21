@@ -39,4 +39,8 @@ This year marks the 250th anniversary of the founding of Charlottesville (1762).
 Below is a summary of the events for the _first_ week (click on the image for a larger picture). But please visit the official [Celebrate 250 website](http://www.celebrate250.com) for complete information and the location of each event.
 
 
-[![](http://www.locohistory.org/blog/albemarle/wp-content/uploads/2012/05/250_events2012-300x216.jpg)](http://www.locohistory.org/blog/albemarle/wp-content/uploads/2012/05/250_events2012.jpg)
+
+
+![](/wp-content/uploads/2012/05/250_events2012-300x216.jpg)
+
+

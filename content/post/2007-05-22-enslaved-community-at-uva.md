@@ -20,7 +20,15 @@ After recently [apologizing for slavery](http://www.virginia.edu/uvatoday/newsRe
 
 
 
-Memorials to the African-American community are scattered throughout grounds. [![Crackerbox on the UVA Campus](http://www.locohistory.org/blog/wp-content/uploads/2007/05/crackerbox1.jpg)](http://www.locohistory.org/blog/?attachment_id=129)One example is the "crackerbox" (allegedly named after 19th Century students from Georgia who were called "crackers"). This small building, located behind Hotel F, has a rich oral history including references to a bordello, a 19th-kitchen, a woodshed, "the smallest dormitory in the United States," and, quite possibly, slave quarters. [![Hotel F and the â€œsmallest dormitory in the United Statesâ€](http://www.locohistory.org/blog/wp-content/uploads/2007/05/crackerbox2.jpg)](http://www.locohistory.org/blog/?attachment_id=130)For a fascinating discussion of other campus buildings that may have been used by slaves or post-bellum servants, visit Jim Cocola's on-line essay titled [The Ideological Spaces of the Academical Village: A Reading of the Central Grounds at the  University of Virginia](http://faculty.virginia.edu/villagespaces/essay/#42e).
+Memorials to the African-American community are scattered throughout grounds. 
+
+![Crackerbox on the UVA Campus](/wp-content/uploads/2007/05/crackerbox1.jpg)
+
+One example is the "crackerbox" (allegedly named after 19th Century students from Georgia who were called "crackers"). This small building, located behind Hotel F, has a rich oral history including references to a bordello, a 19th-kitchen, a woodshed, "the smallest dormitory in the United States," and, quite possibly, slave quarters. 
+
+![Hotel F and the â€œsmallest dormitory in the United Statesâ€](/wp-content/uploads/2007/05/crackerbox2.jpg)
+
+For a fascinating discussion of other campus buildings that may have been used by slaves or post-bellum servants, visit Jim Cocola's on-line essay titled [The Ideological Spaces of the Academical Village: A Reading of the Central Grounds at the  University of Virginia](http://faculty.virginia.edu/villagespaces/essay/#42e).
 
 
 
