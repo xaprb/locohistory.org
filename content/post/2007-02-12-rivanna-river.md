@@ -19,7 +19,7 @@ categories:
 
 The atmospheric photo of the Rivanna is provided courtesy of [Bill Emory](http://www.billemory.com). His blog provides wonderful images of local resources, both cultural and natural. In the past, rivers provided an important route for travel. If you imagine the county without Route 29 and envision 250 as its muddy/rocky predecessor, Three Notched Road, you can appreciate why an unobstructed waterway would be a desirable alternative for moving people and goods through the county. The main river in Albemarle is the Rivanna River. It originates in the Blue Ridge (at altitude) and then flows down, to the east, and eventually joins the James River (that connects to Richmond and then empties into the Atlantic). Prior to the arrival of Europeans, indigneous groups built villages along the river. 
 
-![Queen Anne (1665-1714, r. 1702-1714)](/wp-content/uploads/2007/02/queenanne.thumbnail.jpg)
+![Queen Anne (1665-1714, r. 1702-1714)](/wp-content/uploads/2007/02/queenanne.jpg)
 
 The river is named after Queen Anne (1665-1714) who reigned as the Queen of England, Ireland, and Scotland between 1702 and 1714. William Keppel (2nd Earl of Albemarle, see earlier post on this blog) was Queen Anne's godchild, hence his middle name "Anne." If you are interested in helping conserve the river, visit the [Rivanna Conservation Society](http://www.rivannariver.org/home.html) homepage.
 

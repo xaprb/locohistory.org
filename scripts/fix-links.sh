@@ -2,6 +2,8 @@
 
 # unwrap wordpress attachments
 # :%s/\[!\[\([^\]]*\)\](\(http:\/\/www.locohistory.org[^)]*.jpg\))\](http:[^)]*) */\r\r![\1](\2)\r\r/gc
+# rewrite images and their URLs to be local
+# :bufdo %s/\(!\[[^\]]*\]\)(http:.*\(wp-content.uploads[^)]*)\)/\1(\/\2/g                                                           
 
 
 # danger - some of these eat too much content.
