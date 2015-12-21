@@ -11,7 +11,7 @@ categories:
 ---
 Why are some brick buildings decorated with metal stars ? In historic brick construction, the end of the floor joist rests on a ledge only inches wide. Over time, gravity and the weight of the building cause the walls to bow outwards. This, in turn, causes the joists to slip off their ledges. To prevent this, a tie rod is laid from one end of the building to the other, drilled into either end. These rods are secured by nuts and washers. Because these would be visible from the outside, many older buildings have decorative "washers." The star is a common example. 
 
-<a href='http://www.locohistory.org/blog/?attachment_id=50' rel='attachment wp-att-50' title='stars.jpg'><img src='/media/2007/02/stars.jpg' alt='stars.jpg' /></a>
+![stars.jpg](/media/2007/02/stars.jpg)
 
 
 

@@ -13,6 +13,7 @@ What does an obelisk symbolize? Who is a "relict"? How do you figure out which s
 
 ![Death and Dying Class](/media/2012/07/DeathDying1.jpg)
 
+
 A brief description of the class: This course surveys 300 years of local mortuary practices, from Native American burial mounds to modern memorial parks. This overview includes a study of gravestone iconography, changing mortuary rituals, and cemetery landscapes.  The goal will be to reconstruct the lives of the dead as well as the beliefs of those that buried them. Visits to nearby graveyards will supplement in-class lectures.
 
 To learn more or register, please visit the [SCPS Fall Course List][2] (with lots of great classes). Scroll to the bottom of the page to find the "Death" class (NCSS 123 / 21193).

@@ -9,4 +9,15 @@ categories:
   - cemeteries
 
 ---
-Prior to the 20th Century, there were three public cemeteries in Charlottesville: Maplewood (founded c. 1827), Oakwood (founded c. 1860), and Riverview (founded in 1887). [First Presbyterian Churc](http://www.locohistory.org/blog/?attachment_id=86)h. Today it is an empty lot along an otherwise densely packed street.
+
+Prior to the 20th Century, there were three public cemeteries in
+Charlottesville: Maplewood (founded c. 1827), Oakwood (founded c. 1860), and
+Riverview (founded in 1887).
+
+![First Presbyterian Church](/media/2007/03/graveyard_original.jpg)
+
+An earlier graveyard pre-dates these, but its location is lost to the shadows of
+history. A rare reference to it is found in Moore’s Albemarle: Jefferson’s
+County (1976) who mentioned a burial ground “in a garden” off Park Street, near
+the [First Presbyterian Church](http://www.fpchurch.com/). Today it is an empty
+lot along an otherwise densely packed street.
