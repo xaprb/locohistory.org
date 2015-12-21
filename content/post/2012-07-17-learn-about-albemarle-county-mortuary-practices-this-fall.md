@@ -1,5 +1,5 @@
 ---
-banner: /wp-content/uploads/2012/07/DeathDying1-300x225.jpg
+banner: /wp-content/uploads/2012/07/DeathDying.jpg
 author: admin
 comments: true
 date: 2012-07-17 13:37:29+00:00
@@ -17,10 +17,12 @@ What does an obelisk symbolize? Who is a "relict"? How do you figure out which s
 
 
 
-![](/wp-content/uploads/2012/07/DeathDying1-300x225.jpg)
+![](/wp-content/uploads/2012/07/DeathDying.jpg)
 
 
 
 A brief description of the class: This course surveys 300 years of local mortuary practices, from Native American burial mounds to modern memorial parks. This overview includes a study of gravestone iconography, changing mortuary rituals, and cemetery landscapes.  The goal will be to reconstruct the lives of the dead as well as the beliefs of those that buried them. Visits to nearby graveyards will supplement in-class lectures.
 
 To learn more or register, please visit the [SCPS Fall Course List](http://www.scps.virginia.edu/programs/personal-enrichment-classes-fall2012) (with lots of great classes). Scroll to the bottom of the page to find the "Death" class (NCSS 123 / 21193).
+
+Image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Deathbed_Scene._St_Mary%27s,_Grandtully_-_geograph.org.uk_-_34798.jpg).

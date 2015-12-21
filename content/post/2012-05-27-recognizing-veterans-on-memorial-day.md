@@ -24,7 +24,7 @@ In 2000, a federal resolution was passed to create a "[National Moment of Rememb
 
 This year (28 May 2012) Memorial Day observances coincidence with the first annual Virginia Festival of History, celebrating the 250th anniversary of Charlottesville's founding. 
 
-![](/wp-content/uploads/2012/05/memday_homefront1967-300x205.jpg)
+![](/wp-content/uploads/2012/05/memday_homefront1967.jpg)
 
 The days events are organized around the theme "250 Years of Service in our Nation's Wars." The celebrations begin at 11am at the Albemarle County Office Building; followed by a lecture on Sheridan's James River Campaign of 1865 (by Richard L. Nicholas, Grace Covenant Church, 1:30pm); a film showing and discussion of "[Homefront 1967](http://www2.dailyprogress.com/lifestyles/cdp-lifestyles/2008/mar/30/home_film_is_reminder_of_old_days-ar-86095/),"  about Charlottesville during the Vietnam War by Art Beltone (also at the Grace Church, 3:30pm); a tour of the Maplewood Cemetery (by Steven G. Meeks, meeting at the cemetery, 5:30pm); and a lecture on Medal of Honor recipients from Charlottesville and Albemarle (at the Grace Church, 7pm). For directions to the Grace Covenant Church, [click here](http://www.gracecov.com/contact.html). Throughout the weekend, the American Legion will hand out poppies as a symbolic reminder of fallen soldiers. And in Ruckersville, you can visit the [Vietnam War Foundation and Museum](http://www.vietnamwarfoundation.org/) on Monday (usually it's only open by appointment).[
 ](http://www.vietnamwarfoundation.org/)

@@ -1,5 +1,5 @@
 ---
-banner: /wp-content/uploads/2012/01/cemtalk-300x100.jpg
+banner: /wp-content/uploads/2012/01/cemtalk.jpg
 author: admin
 comments: true
 date: 2012-01-25 21:15:26+00:00
@@ -21,7 +21,7 @@ Attend a free lecture on local African-American Cemeteries by Dr. Lynn Rainville
 
 
 
-![](/wp-content/uploads/2012/01/cemtalk-300x100.jpg)
+![](/wp-content/uploads/2012/01/cemtalk.jpg)
 
 
 

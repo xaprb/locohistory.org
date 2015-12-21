@@ -4,6 +4,7 @@
 # gravematters.shmtml
 # /albemarle/Slavery_at_UVA.shtml -> /albemarle/slavery-at-uva/
 # add a "donate" which is a google form
+# look for hires images of the form e.g. lockwood-drive-300x170.jpg
 
 # unwrap wordpress attachments
 # :%s/\[!\[\([^\]]*\)\](\(http:\/\/www.locohistory.org[^)]*.jpg\))\](http:[^)]*) */\r\r![\1](\2)\r\r/gc
