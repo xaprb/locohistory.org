@@ -20,7 +20,4 @@ In the photo you can see the newly built shopping center, mostly surrounded by w
 
 ![Barracks Road Logo](/wp-content/uploads/2007/03/barrackslogo.jpg)
 
-If you look closely at the Barracks Road logo, found on signs along the edges of the retail center, you will notice a rider on a horse. This logo references the cavalry soldiers who manned the "Barracks." The military barracks were constructed west of town near Ivy Farms during the Revolutionary War to house British and German prisoners-of-war. [ ](http://www.locohistory.org/blog/?attachment_id=72)
-
-
-
+If you look closely at the Barracks Road logo, found on signs along the edges of the retail center, you will notice a rider on a horse. This logo references the cavalry soldiers who manned the "Barracks." The military barracks were constructed west of town near Ivy Farms during the Revolutionary War to house British and German prisoners-of-war.

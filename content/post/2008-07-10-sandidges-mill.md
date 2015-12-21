@@ -31,4 +31,4 @@ The photo below shows a mill race that once brought water to power the mill.
 
 ![Mill Race at Sandidgesâ€™ Mill (photo by Kelly Murphy and Jami Kontkanen)](/wp-content/uploads/2008/07/sandidge2.jpg)
 
-The mill closed in 1942 and the usable equipment was taken to Brightwell's Mill. If you visit the [Amherst County Museum & Historical Society](http://members.aol.com/achmuseum/muse/museoct05.html) you can view an old pamphlet that illustrates milling equipment from Sandidges Mill.[ ](http://www.locohistory.org/blog/amherst/?attachment_id=11)
+The mill closed in 1942 and the usable equipment was taken to Brightwell's Mill. If you visit the [Amherst County Museum & Historical Society](http://members.aol.com/achmuseum/muse/museoct05.html) you can view an old pamphlet that illustrates milling equipment from Sandidges Mill.

@@ -17,7 +17,7 @@ categories:
 
 ![](/wp-content/uploads/2009/06/lewisclark_postcard.jpg)
 
-Charlottesville has many ties to the Lewis and Clark expedition: Meriwether Lewis was born in Albemarle County, William Clark's family lived here for a time, Thomas Jefferson is the President who sent them on their mission to "... explore the Missouri river, & such principal stream of it, as, by it's course and communication with the waters of the Pacific ocean, . . . may offer the most direct & practicable water communication across this continent for the purposes of commerce" (1803 instructions), Albemarle is now home to the [Lewis and Clark Exploratory Center](http://www.lewisandclarkeast.org), and, of course, we have the [Lewis and Clark Statue](http://www.locohistory.org/blog/albemarle/2007/02/16/sacagawea-clark-lewis/) at the intersection of McIntire, Ridge, and Main Streets.
+Charlottesville has many ties to the Lewis and Clark expedition: Meriwether Lewis was born in Albemarle County, William Clark's family lived here for a time, Thomas Jefferson is the President who sent them on their mission to "... explore the Missouri river, & such principal stream of it, as, by it's course and communication with the waters of the Pacific ocean, . . . may offer the most direct & practicable water communication across this continent for the purposes of commerce" (1803 instructions), Albemarle is now home to the [Lewis and Clark Exploratory Center](http://www.lewisandclarkeast.org), and, of course, we have the [Lewis and Clark Statue](/blog/albemarle/2007/02/16/sacagawea-clark-lewis/) at the intersection of McIntire, Ridge, and Main Streets.
 
 
 

@@ -12,7 +12,7 @@ categories:
 - cemeteries
 ---
 
-I've [posted in the past](http://www.locohistory.org/blog/albemarle/2007/05/22/enslaved-community-at-uva/) about the Kitty Foster site at UVA. 
+I've [posted in the past](/blog/albemarle/2007/05/22/enslaved-community-at-uva/) about the Kitty Foster site at UVA. 
 
 ![](/wp-content/uploads/2011/05/fostersitemap1.jpg)
 
@@ -32,10 +32,10 @@ After an initial archaeological survey in the 1990s, Rivanna Archaeological Serv
 
 The more recent dedication ceremony included a newly constructed "shadow catcher" designed by Walter Hood and Cheryl Barton. This metal structure casts a shadow over the location of the cemetery and symbolizes an abstract outline of the house and its chimney.
 
->>For more information about the dedication ceremony, [click here](http://www.virginia.edu/uvatoday/newsRelease.php?id=14654).
+For more information about the dedication ceremony, [click here](http://www.virginia.edu/uvatoday/newsRelease.php?id=14654).
 
->>To read an article about the planned site in The C-ville, [click here](http://www.c-ville.com/index.php?cat=141404064432695&ShowArticle_ID=11800903093090787).
+To read an article about the planned site in The C-ville, [click here](http://www.c-ville.com/index.php?cat=141404064432695&ShowArticle_ID=11800903093090787).
 
->>To here an interview with Dr. Gertrude Fraser (UVA vice provost for faculty recruitment and retention ) about the Kitty Foster Site, [click here](http://www.newsplex.com/uvatoday/headlines/UVa_Today_Kitty_Foster_119099529.html).
+To here an interview with Dr. Gertrude Fraser (UVA vice provost for faculty recruitment and retention ) about the Kitty Foster Site, [click here](http://www.newsplex.com/uvatoday/headlines/UVa_Today_Kitty_Foster_119099529.html).
 
->>The [site is listed](http://aaheritageva.org/search/sites.php?site_id=670) on the Virginia Foundation for the Humanities [African American Heritage website](http://aaheritageva.org).
+The [site is listed](http://aaheritageva.org/search/sites.php?site_id=670) on the Virginia Foundation for the Humanities [African American Heritage website](http://aaheritageva.org).

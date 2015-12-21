@@ -31,7 +31,7 @@ The Monticello Hotel is located directly opposite the courthouse. It was built i
 
 
 
-One of its claims to fame was the "world's largest searchlight," mounted on top of the 9-story building and allegedly visible for 100s of miles.Â [](http://www.locohistory.org/blog/?attachment_id=97)In the photo below (taken in 2007), you can see the spot where the searchlight was mounted (at the top of the building). The hotel closed in 1989 and was later renovated into condominiums. Ironically, the hotel was originally slated to be called the James Monroe, but the popularity of Jefferson, and his homestead, won out.[ ](http://www.locohistory.org/blog/?attachment_id=97) [ ](http://www.locohistory.org/blog/?attachment_id=97)
+One of its claims to fame was the "world's largest searchlight," mounted on top of the 9-story building and allegedly visible for 100s of miles. In the photo below (taken in 2007), you can see the spot where the searchlight was mounted (at the top of the building). The hotel closed in 1989 and was later renovated into condominiums. Ironically, the hotel was originally slated to be called the James Monroe, but the popularity of Jefferson, and his homestead, won out.
 
   
 

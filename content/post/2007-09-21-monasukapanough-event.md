@@ -14,7 +14,7 @@ categories:
 - Native Americans
 ---
 
-The first [post on this blog was about Monasukapanough](http://www.locohistory.org/blog/2007/02/07/monasukapanough/), a Native American village located along the Rivanna River. This Sunday the Quarterly Meeting of the Albemarle Charlottesville Historical Society will be held in the neighborhood of the archaeological site. Please join us at 2pm on September 23rd at 1701 Bentivar Drive for a talk given by Dr. Hantman (University of Virginia) and honored guests, members of the [Monacan Indian Nation](http://www.monacannation.com/). Visit the [ACHS website for directions and more details](http://www.albemarlehistory.org/). 
+The first [post on this blog was about Monasukapanough](/blog/albemarle/2007/02/07/monasukapanough/), a Native American village located along the Rivanna River. This Sunday the Quarterly Meeting of the Albemarle Charlottesville Historical Society will be held in the neighborhood of the archaeological site. Please join us at 2pm on September 23rd at 1701 Bentivar Drive for a talk given by Dr. Hantman (University of Virginia) and honored guests, members of the [Monacan Indian Nation](http://www.monacannation.com/). Visit the [ACHS website for directions and more details](http://www.albemarlehistory.org/). 
 
 ![Computer Simulation of a Pomeiooc Village, c. 1585](/wp-content/uploads/2007/09/monasukapanoughcomputer.jpg)
 

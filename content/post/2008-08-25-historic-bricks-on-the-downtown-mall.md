@@ -44,12 +44,16 @@ But here at locohistory we wanted to take a different approach and see just how 
 
 ![brick6.jpg](/wp-content/uploads/2008/08/brick6.jpg)
 
-For the following exercise it helps to enlist kids as they are closer to the ground and more likely to be successful in completing the following challenge.  Or you can  add this treasure hunt to your weekend pub crawl and see who finishes first. **Directions** for the First (and quite possibly final seeing as they may be removing these bricks in 2009) Annual Downtown Mall Brick Challenge: Begin at the Omni, face east (towards the Pavilion). [![brick7.jpg](/wp-content/uploads/2008/08/brick7.jpg)    ](http://www.locohistory.org/blog/albemarle/2008/08/25/historic-bricks-on-the-downtown-mall/232/)See how many of the brick "hot spots" you can find (numbered throughout this post). Don't forget to look up and watch out for pedestrians and the cars at the two drive through crossings. For bonus points, complete this challenge from memory and see if you recognize any of these spots. [   ](http://www.locohistory.org/blog/albemarle/2008/08/25/historic-bricks-on-the-downtown-mall/232/)
+For the following exercise it helps to enlist kids as they are closer to the ground and more likely to be successful in completing the following challenge.  Or you can  add this treasure hunt to your weekend pub crawl and see who finishes first. **Directions** for the First (and quite possibly final seeing as they may be removing these bricks in 2009) Annual Downtown Mall Brick Challenge: Begin at the Omni, face east (towards the Pavilion).
+
+![brick7.jpg](/wp-content/uploads/2008/08/brick7.jpg)
+
+See how many of the brick "hot spots" you can find (numbered throughout this post). Don't forget to look up and watch out for pedestrians and the cars at the two drive through crossings. For bonus points, complete this challenge from memory and see if you recognize any of these spots. 
 
 ![brick8.jpg](/wp-content/uploads/2008/08/brick8.jpg)
 
-[![brick9.jpg](/wp-content/uploads/2008/08/brick9.jpg)  ](http://www.locohistory.org/blog/albemarle/2008/08/25/historic-bricks-on-the-downtown-mall/234/)
+![brick9.jpg](/wp-content/uploads/2008/08/brick9.jpg)
 
 ![brick10.jpg](/wp-content/uploads/2008/08/brick10.jpg)
 
-Good Luck![ ](http://www.locohistory.org/blog/albemarle/2008/08/25/historic-bricks-on-the-downtown-mall/231/)
+Good Luck!

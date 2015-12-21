@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# TODO:
+# gravematters.shmtml
+
 # unwrap wordpress attachments
 # :%s/\[!\[\([^\]]*\)\](\(http:\/\/www.locohistory.org[^)]*.jpg\))\](http:[^)]*) */\r\r![\1](\2)\r\r/gc
 # rewrite images and their URLs to be local

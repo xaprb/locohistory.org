@@ -16,4 +16,4 @@ In the 19th Century, American families strolled through public cemeteries in an 
 
 ![cemoverview.jpg](/wp-content/uploads/2007/12/cemoverview.jpg)
 
-There are two public cemeteries in Charlottesville: Oakwood and Maplewood and many of the privately owned, large memorial parks allow pedestrian traffic. In all cases, respect is due to these sacred sites. For a weekly update on Albemarle County gravestone motifs, click on the "[gravestone archive](http://www.locohistory.org/gravematters.shtml)" at the left-corner of this page.
+There are two public cemeteries in Charlottesville: Oakwood and Maplewood and many of the privately owned, large memorial parks allow pedestrian traffic. In all cases, respect is due to these sacred sites. For a weekly update on Albemarle County gravestone motifs, click on the "[gravestone archive](/gravematters/)" in the menu of this page.

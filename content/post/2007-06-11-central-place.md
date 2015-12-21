@@ -15,7 +15,7 @@ categories:
 - Roads
 ---
 
-Which C-ville landmark is referred to as "central place." Could it be the Courthouse ? UVA ? Main Street ? The correct answer is the fountain located in the middle of the downtown mall. The fountain was designed, in part, to commemorate the wells that once lined Water Street and other downtown roads (see the earlier post on [Wells along Water Street](http://www.locohistory.org/blog/2007/06/03/water-street-well-wishes/)).
+Which C-ville landmark is referred to as "central place." Could it be the Courthouse ? UVA ? Main Street ? The correct answer is the fountain located in the middle of the downtown mall. The fountain was designed, in part, to commemorate the wells that once lined Water Street and other downtown roads (see the earlier post on [Wells along Water Street](/blog/albemarle/2007/06/03/water-street-well-wishes/)).
 
 ![Central Place Fountain](/wp-content/uploads/2007/06/fountainmall.jpg)
 
