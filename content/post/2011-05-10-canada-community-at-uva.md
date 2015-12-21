@@ -9,6 +9,7 @@ url: /blog/albemarle/2011/05/10/canada-community-at-uva/
 title: Canada Community at UVA
 wordpress_id: 296
 categories:
+- Albemarle
 - African Americans
 - cemeteries
 ---

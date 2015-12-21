@@ -9,6 +9,7 @@ url: /blog/albemarle/2007/06/22/summer-vacation-frys-spring/
 title: 'Summer Vacation: Fry''s Spring'
 wordpress_id: 140
 categories:
+- Albemarle
 - Historic Structures
 - Names
 - Roads

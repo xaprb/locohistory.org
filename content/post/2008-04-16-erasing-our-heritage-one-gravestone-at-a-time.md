@@ -10,6 +10,7 @@ url: /blog/albemarle/2008/04/16/erasing-our-heritage-one-gravestone-at-a-time/
 title: Erasing Our Heritage One Gravestone at a Time
 wordpress_id: 200
 categories:
+- Albemarle
 - cemeteries
 ---
 

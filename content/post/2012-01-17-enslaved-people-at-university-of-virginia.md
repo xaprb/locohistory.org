@@ -11,6 +11,7 @@ url: /blog/albemarle/2012/01/17/enslaved-people-at-university-of-virginia/
 title: Enslaved People at University of Virginia
 wordpress_id: 320
 categories:
+- Albemarle
 - African Americans
 - Event
 - Thomas Jefferson

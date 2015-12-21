@@ -10,6 +10,7 @@ url: /blog/amherst/2008/08/04/masonic-lodge/
 title: Masonic Lodge
 wordpress_id: 18
 categories:
+- Amherst
 - Buildings
 - Secret Societies
 ---

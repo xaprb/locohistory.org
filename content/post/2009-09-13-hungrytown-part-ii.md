@@ -10,6 +10,7 @@ url: /blog/albemarle/2009/09/13/hungrytown-part-ii/
 title: Hungrytown (Part II)
 wordpress_id: 285
 categories:
+- Albemarle
 - cemeteries
 - Civil War
 ---

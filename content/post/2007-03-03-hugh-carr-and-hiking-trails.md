@@ -13,6 +13,7 @@ url: /blog/albemarle/2007/03/03/hugh-carr-and-hiking-trails/
 title: Hugh Carr and Hiking Trails
 wordpress_id: 57
 categories:
+- Albemarle
 - African Americans
 - Artifacts
 - cemeteries

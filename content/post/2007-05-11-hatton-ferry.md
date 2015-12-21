@@ -11,6 +11,7 @@ url: /blog/albemarle/2007/05/11/hatton-ferry/
 title: Hatton Ferry
 wordpress_id: 113
 categories:
+- Albemarle
 - Historic Structures
 ---
 

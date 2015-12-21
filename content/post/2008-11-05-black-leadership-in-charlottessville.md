@@ -11,6 +11,7 @@ url: /blog/albemarle/2008/11/05/black-leadership-in-charlottessville/
 title: Black Leadership in Charlottesville
 wordpress_id: 242
 categories:
+- Albemarle
 - African Americans
 ---
 

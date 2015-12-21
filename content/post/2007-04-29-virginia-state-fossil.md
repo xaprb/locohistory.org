@@ -10,6 +10,7 @@ url: /blog/albemarle/2007/04/29/virginia-state-fossil/
 title: Virginia State Fossil
 wordpress_id: 108
 categories:
+- Albemarle
 - Animals
 ---
 

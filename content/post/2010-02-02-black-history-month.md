@@ -11,6 +11,7 @@ url: /blog/amherst/2010/02/02/black-history-month/
 title: Black History "Month"
 wordpress_id: 30
 categories:
+- Amherst
 - African Americans
 ---
 

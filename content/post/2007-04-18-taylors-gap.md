@@ -10,6 +10,7 @@ url: /blog/albemarle/2007/04/18/taylors-gap/
 title: Taylor's Gap
 wordpress_id: 100
 categories:
+- Albemarle
 - Names
 - Roads
 ---

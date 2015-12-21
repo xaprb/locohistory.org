@@ -11,6 +11,7 @@ url: /blog/albemarle/2007/10/15/mountain-view-baptist-church-in-batesville/
 title: Mountain View Baptist Church in Batesville
 wordpress_id: 160
 categories:
+- Albemarle
 - African Americans
 - Historic Structures
 ---

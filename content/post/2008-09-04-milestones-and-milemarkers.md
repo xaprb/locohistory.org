@@ -10,6 +10,7 @@ url: /blog/amherst/2008/09/04/milestones-and-milemarkers/
 title: Milestones and Milemarkers
 wordpress_id: 20
 categories:
+- Amherst
 - Roads
 ---
 

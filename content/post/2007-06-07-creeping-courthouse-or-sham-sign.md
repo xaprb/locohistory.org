@@ -10,6 +10,7 @@ url: /blog/albemarle/2007/06/07/creeping-courthouse-or-sham-sign/
 title: Creeping Courthouse or Sham Sign ?
 wordpress_id: 133
 categories:
+- Albemarle
 - Thomas Jefferson
 ---
 

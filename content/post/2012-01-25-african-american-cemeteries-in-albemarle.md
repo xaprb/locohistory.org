@@ -10,6 +10,7 @@ url: /blog/albemarle/2012/01/25/african-american-cemeteries-in-albemarle/
 title: African-American Cemeteries in Albemarle
 wordpress_id: 331
 categories:
+- Albemarle
 - African Americans
 - cemeteries
 - Event

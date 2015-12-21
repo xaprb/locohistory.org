@@ -10,6 +10,7 @@ url: /blog/amherst/2008/07/10/sandidges-mill/
 title: Sandidges Mill
 wordpress_id: 8
 categories:
+- Amherst
 - Buildings
 - Mills
 ---

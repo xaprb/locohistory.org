@@ -9,6 +9,7 @@ url: /blog/albemarle/2011/05/10/memorial-day-cemetery-tour/
 title: Memorial Day Cemetery Tour
 wordpress_id: 309
 categories:
+- Albemarle
 - cemeteries
 - Event
 ---

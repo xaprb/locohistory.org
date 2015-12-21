@@ -11,6 +11,7 @@ url: /blog/albemarle/2008/05/27/wanted-arborists-road-builders-telephone-wire-st
 title: 'Wanted: Arborists, Road Builders, Telephone Wire Stringers'
 wordpress_id: 207
 categories:
+- Albemarle
 - Roads
 ---
 

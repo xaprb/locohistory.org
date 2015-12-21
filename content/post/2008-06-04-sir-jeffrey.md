@@ -9,6 +9,7 @@ url: /blog/amherst/2008/06/04/sir-jeffrey/
 title: Sir Jeffrey
 wordpress_id: 6
 categories:
+- Amherst
 - Native Americans
 - Origins
 ---

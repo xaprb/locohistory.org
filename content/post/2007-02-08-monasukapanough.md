@@ -9,6 +9,7 @@ url: /blog/albemarle/2007/02/08/monasukapanough/
 title: Monasukapanough
 wordpress_id: 10
 categories:
+- Albemarle
 - Native Americans
 - Thomas Jefferson
 ---

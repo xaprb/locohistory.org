@@ -10,6 +10,7 @@ url: /blog/albemarle/2009/06/18/charlottesvilles-commemoration-of-sacajawea/
 title: Charlottesville's Commemoration of Sacajawea
 wordpress_id: 273
 categories:
+- Albemarle
 - Native Americans
 - Statues
 ---

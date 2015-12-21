@@ -9,6 +9,7 @@ url: /blog/albemarle/2007/03/21/marchants-manufacturing-building-part-deux/
 title: Marchant's Manufacturing Building, Part Deux
 wordpress_id: 83
 categories:
+- Albemarle
 - Historic Structures
 - Names
 ---

@@ -11,6 +11,7 @@ url: /blog/albemarle/2007/04/02/lions-tigers-hessians-oh-my/
 title: Lions, Tigers, Hessians, Oh My!
 wordpress_id: 71
 categories:
+- Albemarle
 - Event
 - Names
 - Revolutionary War

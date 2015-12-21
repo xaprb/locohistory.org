@@ -9,6 +9,7 @@ url: /blog/albemarle/2007/04/13/swans-cadavers-and-taverns/
 title: Swans, Cadavers, and Taverns
 wordpress_id: 92
 categories:
+- Albemarle
 - Colonial Era
 - Historic Structures
 ---

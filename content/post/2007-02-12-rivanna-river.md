@@ -9,6 +9,7 @@ url: /blog/albemarle/2007/02/12/rivanna-river/
 title: Rivanna River
 wordpress_id: 27
 categories:
+- Albemarle
 - Names
 - Native Americans
 - Natural Areas

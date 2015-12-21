@@ -10,6 +10,7 @@ url: /blog/albemarle/2007/03/09/city-orchards/
 title: City Orchards
 wordpress_id: 20
 categories:
+- Albemarle
 - Names
 ---
 

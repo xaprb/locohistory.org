@@ -10,6 +10,7 @@ url: /blog/albemarle/2007/02/21/ragged-mountains/
 title: Ragged Mountains
 wordpress_id: 17
 categories:
+- Albemarle
 - Natural Areas
 ---
 

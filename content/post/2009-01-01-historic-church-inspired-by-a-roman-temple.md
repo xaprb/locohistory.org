@@ -11,6 +11,7 @@ url: /blog/albemarle/2009/01/01/historic-church-inspired-by-a-roman-temple/
 title: Historic Church Inspired by a Roman Temple
 wordpress_id: 254
 categories:
+- Albemarle
 - African Americans
 - churches
 - Historic Structures

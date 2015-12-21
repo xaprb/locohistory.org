@@ -9,6 +9,7 @@ url: /blog/albemarle/2007/12/15/jefferisite-worms-and-a-quarry/
 title: Jefferisite, Worms, and a Quarry
 wordpress_id: 173
 categories:
+- Albemarle
 - Natural Areas
 ---
 

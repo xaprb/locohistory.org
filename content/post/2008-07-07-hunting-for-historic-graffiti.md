@@ -10,6 +10,7 @@ url: /blog/albemarle/2008/07/07/hunting-for-historic-graffiti/
 title: Hunting for Historic Graffiti
 wordpress_id: 210
 categories:
+- Albemarle
 - Historic Structures
 - Names
 ---

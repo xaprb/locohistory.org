@@ -10,6 +10,7 @@ url: /blog/albemarle/2007/02/19/structural-stars/
 title: Structural Stars
 wordpress_id: 49
 categories:
+- Albemarle
 - Historic Structures
 ---
 

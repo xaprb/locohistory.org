@@ -11,6 +11,7 @@ url: /blog/albemarle/2008/09/29/rosenwald-schools/
 title: Rosenwald Schools
 wordpress_id: 29
 categories:
+- Albemarle
 - African Americans
 - Historic Structures
 - Schools

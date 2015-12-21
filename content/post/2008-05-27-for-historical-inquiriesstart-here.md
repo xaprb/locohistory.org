@@ -9,6 +9,7 @@ url: /blog/amherst/2008/05/27/for-historical-inquiriesstart-here/
 title: For Historical Inquiries...Start Here
 wordpress_id: 4
 categories:
+- Amherst
 - Buildings
 ---
 

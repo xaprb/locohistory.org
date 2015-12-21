@@ -11,6 +11,7 @@ url: /blog/albemarle/2007/05/21/imperial-tea-mr-gleason-old-albemarle-hotel/
 title: Imperial Tea, Mr Gleason, & Old Albemarle Hotel
 wordpress_id: 16
 categories:
+- Albemarle
 - Historic Structures
 ---
 

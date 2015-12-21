@@ -9,6 +9,7 @@ url: /blog/albemarle/2007/03/19/marchants-manufacturing-company/
 title: Marchant's Manufacturing Company
 wordpress_id: 77
 categories:
+- Albemarle
 - Historic Structures
 - Neighborhoods
 ---

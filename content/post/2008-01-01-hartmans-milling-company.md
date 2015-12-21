@@ -9,6 +9,7 @@ url: /blog/albemarle/2008/01/01/hartmans-milling-company/
 title: Hartman's Milling Company
 wordpress_id: 178
 categories:
+- Albemarle
 - Mills
 ---
 

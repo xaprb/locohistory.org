@@ -10,6 +10,7 @@ url: /blog/albemarle/2007/12/20/cities-of-the-dead/
 title: Cities of the Dead
 wordpress_id: 176
 categories:
+- Albemarle
 - cemeteries
 ---
 

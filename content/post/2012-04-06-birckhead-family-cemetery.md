@@ -9,6 +9,7 @@ url: /blog/albemarle/2012/04/06/birckhead-family-cemetery/
 title: Birckhead Family Cemetery
 wordpress_id: 355
 categories:
+- Albemarle
 - cemeteries
 ---
 

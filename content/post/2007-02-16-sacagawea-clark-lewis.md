@@ -9,6 +9,7 @@ url: /blog/albemarle/2007/02/16/sacagawea-clark-lewis/
 title: Sacagawea, Clark, & Lewis
 wordpress_id: 15
 categories:
+- Albemarle
 - Native Americans
 - Statues
 ---

@@ -12,6 +12,7 @@ url: /blog/albemarle/2007/10/29/icarus-inspired-statue-at-uva/
 title: Icarus-inspired Statue at UVA
 wordpress_id: 163
 categories:
+- Albemarle
 - Names
 - World War I
 ---

@@ -29,6 +29,16 @@ theme = "hugo-icarus-theme"
     link   = "/"
 
 [[params.menu]]
+    before = true
+    label  = "Albemarle"
+    link   = "/categories/albemarle/"
+
+[[params.menu]]
+    before = true
+    label  = "Amherst"
+    link   = "/categories/amherst/"
+
+[[params.menu]]
     before = false
     label  = "Categories"
     link   = "categories/"

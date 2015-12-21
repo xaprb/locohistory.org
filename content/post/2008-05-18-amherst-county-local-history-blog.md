@@ -6,6 +6,8 @@ layout: post
 slug: amherst-county-local-history-blog
 url: /blog/amherst/2008/05/18/amherst-county-local-history-blog/
 title: Amherst County Local History Blog
+categories:
+- Amherst
 wordpress_id: 3
 ---
 

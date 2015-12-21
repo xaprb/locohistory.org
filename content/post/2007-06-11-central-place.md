@@ -11,6 +11,7 @@ url: /blog/albemarle/2007/06/11/central-place/
 title: Central Place
 wordpress_id: 136
 categories:
+- Albemarle
 - Artifacts
 - Colonial Era
 - Roads

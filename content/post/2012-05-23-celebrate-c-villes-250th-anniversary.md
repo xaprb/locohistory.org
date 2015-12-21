@@ -10,6 +10,7 @@ url: /blog/albemarle/2012/05/23/celebrate-c-villes-250th-anniversary/
 title: Celebrate C-ville's 250th Anniversary
 wordpress_id: 369
 categories:
+- Albemarle
 - Civil War
 - Event
 - Revolutionary War

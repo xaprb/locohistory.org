@@ -11,6 +11,7 @@ url: /blog/albemarle/2007/05/07/vinegar-hill/
 title: Vinegar Hill
 wordpress_id: 22
 categories:
+- Albemarle
 - African Americans
 - Neighborhoods
 ---

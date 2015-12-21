@@ -10,6 +10,7 @@ url: /blog/albemarle/2007/04/07/hungrytown-part-i/
 title: Hungrytown (Part I)
 wordpress_id: 85
 categories:
+- Albemarle
 - Names
 - Neighborhoods
 ---

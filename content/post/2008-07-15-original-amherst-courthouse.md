@@ -10,6 +10,7 @@ url: /blog/amherst/2008/07/15/original-amherst-courthouse/
 title: (Original) Amherst Courthouse
 wordpress_id: 15
 categories:
+- Amherst
 - Buildings
 ---
 

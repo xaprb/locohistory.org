@@ -11,6 +11,7 @@ url: /blog/albemarle/2007/06/19/park-in-a-driveway-drive-on-park-street/
 title: Park in a Driveway; Drive on Park Street
 wordpress_id: 138
 categories:
+- Albemarle
 - Historic Structures
 - Names
 - Roads

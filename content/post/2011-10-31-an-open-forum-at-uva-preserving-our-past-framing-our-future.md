@@ -9,6 +9,7 @@ url: /blog/albemarle/2011/10/31/an-open-forum-at-uva-preserving-our-past-framing
 title: 'An Open Forum at UVA: Preserving Our Past, Framing Our Future'
 wordpress_id: 314
 categories:
+- Albemarle
 - African Americans
 ---
 

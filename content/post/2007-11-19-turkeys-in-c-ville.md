@@ -11,6 +11,7 @@ url: /blog/albemarle/2007/11/19/turkeys-in-c-ville/
 title: Turkeys in C-Ville
 wordpress_id: 169
 categories:
+- Albemarle
 - Names
 ---
 

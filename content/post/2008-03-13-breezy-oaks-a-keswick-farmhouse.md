@@ -11,6 +11,7 @@ url: /blog/albemarle/2008/03/13/breezy-oaks-a-keswick-farmhouse/
 title: 'Breezy Oaks: A Keswick Farmhouse'
 wordpress_id: 190
 categories:
+- Albemarle
 - African Americans
 - Historic Structures
 - Thomas Jefferson

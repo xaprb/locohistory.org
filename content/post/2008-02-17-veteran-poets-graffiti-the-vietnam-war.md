@@ -12,6 +12,7 @@ url: /blog/albemarle/2008/02/17/veteran-poets-graffiti-the-vietnam-war/
 title: 'Veteran Poets: Graffiti & the Vietnam War'
 wordpress_id: 188
 categories:
+- Albemarle
 - Event
 - Vietnam War
 ---

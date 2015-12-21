@@ -12,6 +12,7 @@ url: /blog/albemarle/2007/03/16/extraordinary-ordinaries/
 title: Extraordinary Ordinaries
 wordpress_id: 74
 categories:
+- Albemarle
 - Colonial Era
 - Historic Structures
 - Names

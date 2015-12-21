@@ -10,6 +10,8 @@ slug: map-it-an-exciting-new-locoogle-feature
 url: /blog/albemarle/2007/04/08/map-it-an-exciting-new-locoogle-feature/
 title: Map it! an exciting new locoogle feature!
 wordpress_id: 87
+categories:
+- Albemarle
 ---
 
 Google Maps has recently introduced a wonderful new service: ["mash-ups."](http://googlemapsmania.blogspot.com/) The idea harkens back to push pins (think old fashioned detective movies where they put in pins for crime sites to discern the pattern). In this case, the "push pins" are virtual, blue ones and the map base is Google Maps. Instead of colored pins, you click on the pin and a dialogue box appears. 

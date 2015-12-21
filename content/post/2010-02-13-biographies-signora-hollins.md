@@ -9,6 +9,7 @@ url: /blog/amherst/2010/02/13/biographies-signora-hollins/
 title: 'Biographies: Signora Hollins'
 wordpress_id: 38
 categories:
+- Amherst
 - African Americans
 ---
 

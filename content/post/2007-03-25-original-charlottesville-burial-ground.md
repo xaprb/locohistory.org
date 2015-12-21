@@ -10,6 +10,7 @@ url: /blog/albemarle/2007/03/25/original-charlottesville-burial-ground/
 title: Original Charlottesville Burial Ground
 wordpress_id: 23
 categories:
+- Albemarle
 - cemeteries
 ---
 

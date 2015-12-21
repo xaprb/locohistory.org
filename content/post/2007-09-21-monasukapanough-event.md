@@ -12,6 +12,7 @@ url: /blog/albemarle/2007/09/21/monasukapanough-event/
 title: Monasukapanough, Event
 wordpress_id: 155
 categories:
+- Albemarle
 - Native Americans
 ---
 

@@ -10,6 +10,7 @@ url: /blog/albemarle/2007/04/24/ragged-mountain-hollers/
 title: Ragged Mountain Hollers
 wordpress_id: 106
 categories:
+- Albemarle
 - Neighborhoods
 - Roads
 ---

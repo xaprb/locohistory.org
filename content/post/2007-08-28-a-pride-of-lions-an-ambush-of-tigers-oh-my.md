@@ -12,6 +12,7 @@ url: /blog/albemarle/2007/08/28/a-pride-of-lions-an-ambush-of-tigers-oh-my/
 title: A Pride of Lions! An ambush of Tigers! Oh my!
 wordpress_id: 37
 categories:
+- Albemarle
 - Animals
 - Natural Areas
 - Neighborhoods

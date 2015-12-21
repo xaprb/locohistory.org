@@ -11,6 +11,7 @@ url: /blog/albemarle/2007/04/30/wwii-exhibit-in-scottsville/
 title: WWII Exhibit in Scottsville
 wordpress_id: 110
 categories:
+- Albemarle
 - Event
 ---
 

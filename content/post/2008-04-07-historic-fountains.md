@@ -10,6 +10,7 @@ url: /blog/albemarle/2008/04/07/historic-fountains/
 title: Historic Fountains
 wordpress_id: 198
 categories:
+- Albemarle
 - Animals
 - Artifacts
 ---

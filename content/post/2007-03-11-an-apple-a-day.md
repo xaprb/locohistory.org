@@ -11,6 +11,7 @@ url: /blog/albemarle/2007/03/11/an-apple-a-day/
 title: An Apple A Day...
 wordpress_id: 65
 categories:
+- Albemarle
 - Historic Structures
 - Names
 - Neighborhoods

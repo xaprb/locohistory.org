@@ -9,6 +9,7 @@ url: /blog/albemarle/2007/03/14/barracks-road-shopping-center/
 title: Barracks Road Shopping Center
 wordpress_id: 18
 categories:
+- Albemarle
 - Event
 - Revolutionary War
 ---

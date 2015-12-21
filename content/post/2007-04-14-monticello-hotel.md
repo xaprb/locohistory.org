@@ -13,6 +13,7 @@ url: /blog/albemarle/2007/04/14/monticello-hotel/
 title: Monticello Hotel
 wordpress_id: 93
 categories:
+- Albemarle
 - Historic Structures
 ---
 

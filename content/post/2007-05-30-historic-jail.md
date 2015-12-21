@@ -11,6 +11,7 @@ url: /blog/albemarle/2007/05/30/historic-jail/
 title: Historic Jail
 wordpress_id: 131
 categories:
+- Albemarle
 - Historic Structures
 ---
 

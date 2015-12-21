@@ -12,6 +12,7 @@ url: /blog/albemarle/2007/05/22/enslaved-community-at-uva/
 title: Enslaved Community at UVA
 wordpress_id: 128
 categories:
+- Albemarle
 - African Americans
 - Historic Structures
 ---

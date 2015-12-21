@@ -11,6 +11,7 @@ url: /blog/albemarle/2007/05/13/fire-plaques/
 title: Fire Plaques
 wordpress_id: 115
 categories:
+- Albemarle
 - Historic Structures
 ---
 

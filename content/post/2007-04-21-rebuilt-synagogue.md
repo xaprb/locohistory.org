@@ -10,6 +10,7 @@ url: /blog/albemarle/2007/04/21/rebuilt-synagogue/
 title: Rebuilt Synagogue
 wordpress_id: 99
 categories:
+- Albemarle
 - Historic Structures
 ---
 

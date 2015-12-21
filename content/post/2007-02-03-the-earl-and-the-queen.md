@@ -9,6 +9,7 @@ url: /blog/albemarle/2007/02/03/the-earl-and-the-queen/
 title: The Earl and the Queen
 wordpress_id: 4
 categories:
+- Albemarle
 - Names
 ---
 

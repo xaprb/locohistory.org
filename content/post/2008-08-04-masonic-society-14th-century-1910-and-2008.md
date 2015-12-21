@@ -10,6 +10,7 @@ url: /blog/albemarle/2008/08/04/masonic-society-14th-century-1910-and-2008/
 title: 'Masonic Society: 14th Century, 1910, and 2008'
 wordpress_id: 220
 categories:
+- Albemarle
 - Colonial Era
 - Secret Societies
 ---

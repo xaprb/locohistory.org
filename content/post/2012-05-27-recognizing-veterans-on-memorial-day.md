@@ -11,6 +11,7 @@ url: /blog/albemarle/2012/05/27/recognizing-veterans-on-memorial-day/
 title: Recognizing Veterans on Memorial Day
 wordpress_id: 375
 categories:
+- Albemarle
 - Event
 ---
 

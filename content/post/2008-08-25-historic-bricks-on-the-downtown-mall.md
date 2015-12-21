@@ -10,6 +10,7 @@ url: /blog/albemarle/2008/08/25/historic-bricks-on-the-downtown-mall/
 title: Historic Bricks on the Downtown Mall
 wordpress_id: 224
 categories:
+- Albemarle
 - Historic Structures
 - Neighborhoods
 - Roads

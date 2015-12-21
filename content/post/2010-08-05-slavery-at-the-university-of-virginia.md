@@ -10,6 +10,7 @@ url: /blog/albemarle/2010/08/05/slavery-at-the-university-of-virginia/
 title: Slavery at the University of Virginia
 wordpress_id: 293
 categories:
+- Albemarle
 - African Americans
 ---
 

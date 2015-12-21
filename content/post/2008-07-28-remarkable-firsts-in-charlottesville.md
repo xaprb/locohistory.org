@@ -12,6 +12,7 @@ url: /blog/albemarle/2008/07/28/remarkable-firsts-in-charlottesville/
 title: Remarkable "firsts" in Charlottesville
 wordpress_id: 215
 categories:
+- Albemarle
 - Artifacts
 - Names
 ---
