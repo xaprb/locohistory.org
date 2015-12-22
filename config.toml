@@ -1,4 +1,5 @@
 url= "http://www.locohistory.org/blog/albemarle"
+publishdir= "../locohistory.org-gh_pages/"
 name= "LoCoHistory"
 description = "One faces the future with one's past - Pearl S. Buck"
 baseurl = "http://www.locohistory.org/"
