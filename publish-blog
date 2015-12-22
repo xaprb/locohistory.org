@@ -3,16 +3,16 @@ set -u
 set -x
 
 killall hugo 2>&1
-if [ ! -e ../locohistory.org-gh_pages ]; then
+if [ ! -e ../locohistory.org-gh-pages ]; then
 	cd ..
-	git clone git@github.com:xaprb/locohistory.org locohistory.org-gh_pages
+	git clone git@github.com:xaprb/locohistory.org locohistory.org-gh-pages
 	cd -
 fi
-cd ../locohistory.org-gh_pages
+cd ../locohistory.org-gh-pages
 git reset --hard HEAD
 git checkout gh-pages
 cd -
 git add --all . && git commit -am "pending changes" && git push
 hugo
-cd ../locohistory.org-gh_pages
+cd ../locohistory.org-gh-pages
 git add --all . && git commit -am "render with hugo" && git push
