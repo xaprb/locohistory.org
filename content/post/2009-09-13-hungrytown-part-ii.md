@@ -17,11 +17,7 @@ categories:
 
 Two years ago I published a post about Hungrytown, in southern Albemarle County.
 
-[caption id="attachment_286" align="aligncenter" width="288" caption="An historic cabin in Hungrytown"]
-
 ![An historic cabin in Hungrytown](/wp-content/uploads/2009/09/hungrytownhouse.jpg)
-
-[/caption]
 
 Recently I received an email from a descendant asking about a nearby cemetery. I visited the cemetery a number of years ago. It contains the graves of families who lived in the neighborhood: Toms, Meltons, and others. 
 
