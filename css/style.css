@@ -2017,3 +2017,42 @@ pre .javascript .function {
 #recent-post li:hover .item-title a {
   color: #38b7ea;
 }
+.article-type-post > .article-inner > a {
+	display:block;
+	max-height:300px;
+}
+
+
+.article-type-page > .article-inner {
+	padding-top:250px;
+	position:relative;
+	z-index:1;
+}
+
+.article-type-page > .article-inner > * {
+	position:relative;
+	z-index:1;
+	background:#fff; 
+}
+
+.article-type-page > .article-inner:after {
+	content:””;
+	display:block;
+	height:100%;
+	width:100%;
+	position:absolute;
+	top:250px;
+	left:0;
+	right:0;
+	z-index:0;
+	background:#fff;
+}
+
+.article-type-page > .article-inner > .article-banner {
+	position:absolute;
+	z-index:-1;
+	top:0;
+	left:0;
+	right:0;
+	margin:0 auto;
+}
